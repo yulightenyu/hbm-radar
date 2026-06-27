@@ -17,6 +17,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add data.json
+          git add -f data.json
           git commit -m "auto update $(date -u +%FT%TZ)" || echo "no change"
           git push
