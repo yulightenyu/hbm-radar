@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T04:28:13.862711Z",
+  "updated": "2026-06-27T08:39:27.810335Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -69,11 +69,11 @@
   },
   "micron": [
     {
-      "title": "Micron invests in Anthropic and grants it a supply deal",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-06-23T12:25:48",
-      "zh": "美光投资 Anthropic 并授予其供应协议"
+      "title": "Micron Predicts DRAM Crisis Until At Least 2028",
+      "link": "https://www.techpowerup.com/350343/micron-predicts-dram-crisis-until-at-least-2028",
+      "src": "TechPowerUp",
+      "date": "2026-06-27T05:44:39",
+      "zh": "美光预测 DRAM 危机至少持续到 2028 年"
     }
   ],
   "hbm": []
