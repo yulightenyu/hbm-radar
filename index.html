@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HBM Radar · 存储投资看板</title>
+<style>
+:root{
+  --bg:#0b1016; --panel:#121a24; --panel2:#0f161e; --line:#1e2a38;
+  --ink:#e8edf2; --dim:#8a9bb0; --faint:#56697f;
+  --up:#26d07c; --down:#ff5c5c; --gold:#e8b04b; --accent:#4ea8de;
+  --mono:'SF Mono',ui-monospace,'JetBrains Mono','Roboto Mono',Menlo,monospace;
+  --sans:'Inter','PingFang SC','Microsoft YaHei',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);
+  font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased;
+  padding-bottom:60px}
+.wrap{max-width:960px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line);padding:26px 0 20px;margin-bottom:8px}
+.brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.brand h1{font-size:22px;font-weight:700;letter-spacing:-.01em}
+.brand .tag{font-family:var(--mono);font-size:11px;color:var(--accent);
+  border:1px solid var(--accent);border-radius:3px;padding:1px 6px;letter-spacing:.05em}
+.updated{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:6px}
+.sec{margin:38px 0 16px}
+.eyebrow{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.eyebrow .no{font-family:var(--mono);font-size:11px;color:var(--faint);
+  border:1px solid var(--line);border-radius:3px;padding:2px 6px}
+.eyebrow h2{font-size:13px;font-weight:600;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--dim)}
+.eyebrow .rule{flex:1;height:1px;background:var(--line)}
+.hero{background:linear-gradient(160deg,#141d28,#0e151d);
+  border:1px solid var(--line);border-radius:10px;padding:24px;position:relative;overflow:hidden}
+.hero .htop{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:14px}
+.hero .lbl{font-family:var(--mono);font-size:11px;color:var(--gold);letter-spacing:.1em;margin-bottom:6px}
+.hero .ticker{font-size:15px;color:var(--dim)}
+.hero .updown{text-align:right}
+.hero .ud-val{font-family:var(--mono);font-size:34px;font-weight:700;line-height:1}
+.hero .ud-lbl{font-size:11px;color:var(--dim);margin-top:4px}
+.gapbar{margin-top:22px}
+.gapbar .track{height:8px;background:#0a0f15;border-radius:4px;position:relative;overflow:hidden;border:1px solid var(--line)}
+.gapbar .fill{height:100%;border-radius:4px;transition:width .8s ease}
+.gaprow{display:flex;justify-content:space-between;margin-top:10px;font-family:var(--mono);font-size:13px}
+.gaprow .price{color:var(--dim)}
+.gaprow .fair{color:var(--gold);font-weight:600}
+.assum{display:flex;gap:18px;margin-top:20px;flex-wrap:wrap;
+  padding-top:16px;border-top:1px solid var(--line)}
+.assum .a{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.assum .a b{color:var(--dim);font-weight:600}
+.flows{display:flex;gap:6px;margin-top:16px;align-items:flex-end;height:54px}
+.flows .bar{flex:1;background:linear-gradient(var(--accent),#2a5a78);
+  border-radius:2px 2px 0 0;min-height:4px;position:relative}
+.flows .bar span{position:absolute;top:-15px;left:0;right:0;text-align:center;
+  font-family:var(--mono);font-size:9px;color:var(--faint)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;
+  padding:16px;border-left:3px solid var(--line);transition:border-color .2s}
+.card.up{border-left-color:var(--up)}
+.card.down{border-left-color:var(--down)}
+.card .nm{font-size:15px;font-weight:600}
+.card .tk{font-family:var(--mono);font-size:11px;color:var(--faint)}
+.card .pr{font-family:var(--mono);font-size:24px;font-weight:700;margin:10px 0 2px}
+.card .ch{font-family:var(--mono);font-size:13px;font-weight:600}
+.card .ch.up{color:var(--up)} .card .ch.down{color:var(--down)}
+.metrics{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px;
+  padding-top:12px;border-top:1px solid var(--line)}
+.metrics .m .k{font-size:10px;color:var(--faint);text-transform:uppercase;letter-spacing:.05em}
+.metrics .m .v{font-family:var(--mono);font-size:14px;color:var(--ink);margin-top:2px}
+.news{display:flex;flex-direction:column;gap:1px;background:var(--line);
+  border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.item{background:var(--panel2);padding:13px 16px;display:block;text-decoration:none;
+  color:inherit;transition:background .15s}
+.item:hover{background:var(--panel)}
+.item .zh{font-size:14px;color:var(--ink);font-weight:500}
+.item .en{font-size:12px;color:var(--faint);margin-top:3px}
+.item .meta{font-family:var(--mono);font-size:10px;color:var(--accent);margin-top:6px}
+.sec.micron .eyebrow h2{color:var(--gold)}
+.sec.micron .eyebrow .no{border-color:var(--gold);color:var(--gold)}
+.empty{font-family:var(--mono);font-size:12px;color:var(--faint);
+  padding:18px;text-align:center;background:var(--panel2);border-radius:8px;border:1px solid var(--line)}
+footer{margin-top:50px;padding-top:20px;border-top:1px solid var(--line);
+  font-family:var(--mono);font-size:11px;color:var(--faint);text-align:center}
+@media(max-width:560px){
+  .hero .ud-val{font-size:28px}
+  .brand h1{font-size:19px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <div class="brand">
+    <h1>HBM Radar</h1>
+    <span class="tag">存储投资看板</span>
+  </div>
+  <div class="updated" id="updated">载入中…</div>
+</header>
+<div class="sec">
+  <div class="eyebrow">
+    <span class="no">01</span><h2>美光内在价值 · DCF</h2><span class="rule"></span>
+  </div>
+  <div id="hero"></div>
+</div>
+<div class="sec">
+  <div class="eyebrow">
+    <span class="no">02</span><h2>行情 · 财报指标</h2><span class="rule"></span>
+  </div>
+  <div class="grid" id="stocks"></div>
+</div>
+<div class="sec micron">
+  <div class="eyebrow">
+    <span class="no">03</span><h2>美光 · 专题</h2><span class="rule"></span>
+  </div>
+  <div id="micron"></div>
+</div>
+<div class="sec">
+  <div class="eyebrow">
+    <span class="no">04</span><h2>HBM · 高带宽内存</h2><span class="rule"></span>
+  </div>
+  <div id="hbm"></div>
+</div>
+<footer>HBM Radar · yfinance + RSS · 自动更新 · 仅供研究，非投资建议</footer>
+</div>
+<script>
+const $ = id => document.getElementById(id);
+const fmtBig = n => {
+  if(n==null) return "—";
+  const a=Math.abs(n);
+  if(a>=1e12) return (n/1e12).toFixed(1)+"T";
+  if(a>=1e9) return (n/1e9).toFixed(1)+"B";
+  if(a>=1e6) return (n/1e6).toFixed(0)+"M";
+  return n.toFixed(0);
+};
+function renderHero(d){
+  if(!d || !d.ok){ $("hero").innerHTML='<div class="empty">DCF 数据不可用（检查 fetch.py 日志）</div>'; return; }
+  const up = d.upside!=null && d.upside>=0;
+  const col = up?'var(--up)':'var(--down)';
+  const mx = Math.max(d.fair_value, d.price)*1.15;
+  const pricePct = d.price/mx*100;
+  const fairPct = d.fair_value/mx*100;
+  const a = d.assumptions||{};
+  const fmax = Math.max(...(d.flows_b||[1]));
+  const flowBars = (d.flows_b||[]).map((v,i)=>
+    `<div class="bar" style="height:${Math.max(v/fmax*100,8)}%"><span>${v}B</span></div>`).join("");
+  $("hero").innerHTML = `
+  <div class="hero">
+    <div class="htop">
+      <div>
+        <div class="lbl">FAIR VALUE / 内在价值</div>
+        <div style="font-family:var(--mono);font-size:34px;font-weight:700;color:var(--gold)">$${d.fair_value}</div>
+        <div class="ticker">MU · 现价 $${d.price}</div>
+      </div>
+      <div class="updown">
+        <div class="ud-val" style="color:${col}">${up?'+':''}${d.upside}%</div>
+        <div class="ud-lbl">${up?'低估空间':'高估'}</div>
+      </div>
+    </div>
+    <div class="gapbar">
+      <div class="track">
+        <div class="fill" style="width:${fairPct}%;background:linear-gradient(90deg,#8a6d2a,var(--gold))"></div>
+      </div>
+      <div class="gaprow">
+        <span class="price">现价 $${d.price} · ${pricePct.toFixed(0)}%</span>
+        <span class="fair">公允 $${d.fair_value}</span>
+      </div>
+    </div>
+    <div class="flows">${flowBars}</div>
+    <div class="assum">
+      <span class="a"><b>起点 FCF</b> $${d.fcf0_b}B</span>
+      <span class="a"><b>5Y 增速</b> ${(a.growth_5y*100).toFixed(0)}%</span>
+      <span class="a"><b>WACC</b> ${(a.wacc*100).toFixed(0)}%</span>
+      <span class="a"><b>永续</b> ${(a.terminal_growth*100).toFixed(0)}%</span>
+      <span class="a"><b>EV</b> $${d.ev_b}B</span>
+    </div>
+  </div>`;
+}
+function renderStocks(arr){
+  $("stocks").innerHTML = (arr||[]).map(s=>{
+    const up = s.change!=null && s.change>=0;
+    const cls = s.change==null?'':(up?'up':'down');
+    const sign = up?'+':'';
+    return `<div class="card ${cls}">
+      <div class="nm">${s.name}</div>
+      <div class="tk">${s.ticker} · ${s.currency}</div>
+      <div class="pr">${s.price!=null?s.price.toLocaleString():'—'}</div>
+      <div class="ch ${cls}">${s.change!=null?sign+s.change+'%':'—'}</div>
+      <div class="metrics">
+        <div class="m"><div class="k">毛利率</div><div class="v">${s.gross_margin!=null?s.gross_margin+'%':'—'}</div></div>
+        <div class="m"><div class="k">营收</div><div class="v">${fmtBig(s.revenue)}</div></div>
+        <div class="m"><div class="k">EPS</div><div class="v">${s.eps!=null?s.eps:'—'}</div></div>
+        <div class="m"><div class="k">PE</div><div class="v">${s.pe!=null?(+s.pe).toFixed(1):'—'}</div></div>
+      </div>
+    </div>`;
+  }).join("");
+}
+function renderNews(id,arr){
+  if(!arr || !arr.length){ $(id).innerHTML='<div class="empty">暂无数据</div>'; return; }
+  $(id).innerHTML = '<div class="news">'+arr.map(it=>{
+    const dt = it.date?it.date.slice(0,10):'';
+    return `<a class="item" href="${it.link}" target="_blank" rel="noopener">
+      ${it.zh?`<div class="zh">${it.zh}</div>`:''}
+      <div class="${it.zh?'en':'zh'}">${it.title}</div>
+      <div class="meta">${it.src}${dt?' · '+dt:''}</div>
+    </a>`;
+  }).join("")+'</div>';
+}
+fetch('data.json?'+Date.now()).then(r=>r.json()).then(d=>{
+  const u = new Date(d.updated);
+  $("updated").textContent = '最后更新 '+u.toLocaleString('zh-CN',{hour12:false});
+  renderHero(d.dcf);
+  renderStocks(d.stocks);
+  renderNews('micron', d.micron);
+  renderNews('hbm', d.hbm);
+}).catch(e=>{
+  $("updated").textContent = 'data.json 载入失败';
+  console.error(e);
+});
+</script>
+</body>
+</html>

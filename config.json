@@ -1,0 +1,16 @@
+{
+  "_comment": "上线后改这里即可。DCF 只对 MU 计算；其他标的仅抓价格+财报。",
+  "stocks": [
+    {"ticker": "MU",       "name": "美光 Micron",   "currency": "USD"},
+    {"ticker": "005930.KS","name": "三星电子",       "currency": "KRW"},
+    {"ticker": "000660.KS","name": "SK海力士",       "currency": "KRW"},
+    {"ticker": "300223.SZ","name": "君正集成",       "currency": "CNY"}
+  ],
+  "dcf": {
+    "_comment": "仅 MU。FCF 起点由 fetch.py 自动抓 TTM 自由现金流，下面是手填假设。",
+    "growth_5y": 0.12,
+    "terminal_growth": 0.03,
+    "wacc": 0.10,
+    "projection_years": 5
+  }
+}
