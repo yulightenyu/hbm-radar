@@ -1,0 +1,80 @@
+{
+  "updated": "2026-06-27T04:28:13.862711Z",
+  "stocks": [
+    {
+      "ticker": "MU",
+      "name": "美光 Micron",
+      "currency": "USD",
+      "price": 1132.33,
+      "change": -6.69,
+      "revenue": 37378000000.0,
+      "gross_margin": 39.8,
+      "eps": 44.27,
+      "pe": 25.577816
+    },
+    {
+      "ticker": "005930.KS",
+      "name": "三星电子",
+      "currency": "KRW",
+      "price": 339500.0,
+      "change": -5.3,
+      "revenue": 333605938000000.0,
+      "gross_margin": 39.4,
+      "eps": null,
+      "pe": null
+    },
+    {
+      "ticker": "000660.KS",
+      "name": "SK海力士",
+      "currency": "KRW",
+      "price": 2673000.0,
+      "change": -8.36,
+      "revenue": 97146675000000.0,
+      "gross_margin": 60.4,
+      "eps": null,
+      "pe": null
+    },
+    {
+      "ticker": "300223.SZ",
+      "name": "君正集成",
+      "currency": "CNY",
+      "price": 233.21,
+      "change": -1.75,
+      "revenue": 4741007597.96,
+      "gross_margin": 34.1,
+      "eps": 1.28,
+      "pe": 182.19533
+    }
+  ],
+  "dcf": {
+    "ok": true,
+    "fcf0_b": 1.67,
+    "flows_b": [
+      1.87,
+      2.09,
+      2.34,
+      2.62,
+      2.94
+    ],
+    "tv_b": 43.25,
+    "ev_b": 35.66,
+    "fair_value": 48.97,
+    "price": 1132.33,
+    "upside": -95.68,
+    "assumptions": {
+      "growth_5y": 0.12,
+      "terminal_growth": 0.03,
+      "wacc": 0.1
+    }
+  },
+  "micron": [
+    {
+      "title": "Micron invests in Anthropic and grants it a supply deal",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-06-23T12:25:48",
+      "zh": "美光投资 Anthropic 并授予其供应协议"
+    }
+  ],
+  "hbm": []
+}
