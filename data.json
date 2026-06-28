@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-27T19:24:01.803766Z",
+  "updated": "2026-06-28T04:03:21.297425Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1132.33,
-      "change": -6.69,
+      "price": NaN,
+      "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.27,
