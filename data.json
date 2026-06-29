@@ -1,23 +1,23 @@
 {
-  "updated": "2026-06-29T11:05:13.765741Z",
+  "updated": "2026-06-29T15:51:45.592683Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1132.33,
-      "change": -6.69,
+      "price": 1096.11,
+      "change": -3.2,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.27,
-      "pe": 25.577816
+      "pe": 24.759657
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 323000.0,
-      "change": -4.86,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 2628000.0,
-      "change": -1.68,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1132.33,
-    "upside": -95.68,
+    "price": 1095.79,
+    "upside": -95.53,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "DRAM Triarchy Hit with Class-Action Lawsuit Alleging Memory Price-fixing and Cartel Behavior",
+      "link": "https://www.techpowerup.com/350389/dram-triarchy-hit-with-class-action-lawsuit-alleging-memory-price-fixing-and-cartel-behavior",
+      "src": "TechPowerUp",
+      "date": "2026-06-29T14:47:59",
+      "zh": "集体诉讼指控内存价格垄断和卡特尔行为，DRAM三巨头遭遇打击"
+    },
     {
       "title": "Micron Predicts DRAM Crisis Until At Least 2028",
       "link": "https://www.techpowerup.com/350343/micron-predicts-dram-crisis-until-at-least-2028",
@@ -83,5 +90,13 @@
       "zh": "美光投资 Anthropic 并授予其供应协议"
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "DRAM Triarchy Hit with Class-Action Lawsuit Alleging Memory Price-fixing and Cartel Behavior",
+      "link": "https://www.techpowerup.com/350389/dram-triarchy-hit-with-class-action-lawsuit-alleging-memory-price-fixing-and-cartel-behavior",
+      "src": "TechPowerUp",
+      "date": "2026-06-29T14:47:59",
+      "zh": "集体诉讼指控内存价格垄断和卡特尔行为，DRAM三巨头遭遇打击"
+    }
+  ]
 }
