@@ -1,16 +1,16 @@
 {
-  "updated": "2026-06-30T09:41:19.549090Z",
+  "updated": "2026-06-30T14:24:19.660252Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1145.28,
-      "change": 1.14,
+      "price": 1155.61,
+      "change": 0.9,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.21,
-      "pe": 25.905453
+      "pe": 26.139109
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1145.28,
-    "upside": -95.72,
+    "price": 1155.31,
+    "upside": -95.76,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -81,13 +81,6 @@
       "src": "TechPowerUp",
       "date": "2026-06-27T05:44:39",
       "zh": "美光预测 DRAM 危机至少持续到 2028 年"
-    },
-    {
-      "title": "Micron invests in Anthropic and grants it a supply deal",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-06-23T12:25:48",
-      "zh": "美光投资 Anthropic 并授予其供应协议"
     }
   ],
   "hbm": [
