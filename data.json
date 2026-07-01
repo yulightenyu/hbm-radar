@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-01T14:41:42.931564Z",
+  "updated": "2026-07-01T19:59:36.324736Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1061.94,
-      "change": -8.0,
+      "price": 1037.94,
+      "change": -10.08,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.21,
-      "pe": 24.010859
+      "pe": 23.410994
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": 4.08,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.29,
-      "pe": 200.81395
+      "eps": 1.35,
+      "pe": 191.88887
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1061.11,
-    "upside": -95.38,
+    "price": 1034.31,
+    "upside": -95.27,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "(PR) Micron and General Motors Sign Strategic Agreement to Secure Supply",
+      "link": "https://www.techpowerup.com/350440/micron-and-general-motors-sign-strategic-agreement-to-secure-supply",
+      "src": "TechPowerUp",
+      "date": "2026-07-01T15:45:14",
+      "zh": "(PR) 美光与通用汽车签署战略协议以确保供应"
+    },
     {
       "title": "AMD to Raise Radeon GPU Kit Prices by 10% in July",
       "link": "https://www.techpowerup.com/350427/amd-to-raise-radeon-gpu-kit-prices-by-10-in-july",
@@ -81,13 +88,6 @@
       "src": "TechPowerUp",
       "date": "2026-06-29T14:47:59",
       "zh": "集体诉讼指控内存价格垄断和卡特尔行为，DRAM三巨头遭遇打击"
-    },
-    {
-      "title": "Micron Predicts DRAM Crisis Until At Least 2028",
-      "link": "https://www.techpowerup.com/350343/micron-predicts-dram-crisis-until-at-least-2028",
-      "src": "TechPowerUp",
-      "date": "2026-06-27T05:44:39",
-      "zh": "美光预测 DRAM 危机至少持续到 2028 年"
     },
     {
       "title": "Micron invests in Anthropic and grants it a supply deal",
