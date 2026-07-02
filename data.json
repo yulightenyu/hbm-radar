@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-02T14:07:04.344027Z",
+  "updated": "2026-07-02T19:27:35.589537Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1050.34,
-      "change": 1.75,
+      "price": 953.51,
+      "change": -7.63,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.28,
-      "pe": 23.72245
+      "pe": 21.545732
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1050.99,
-    "upside": -95.34,
+    "price": 953.75,
+    "upside": -94.87,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Micron and GM sign long-term chip supply agreement",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-02T14:08:22",
+      "zh": "美光与通用汽车签署长期芯片供应协议"
+    },
     {
       "title": "(PR) Micron and General Motors Sign Strategic Agreement to Secure Supply",
       "link": "https://www.techpowerup.com/350440/micron-and-general-motors-sign-strategic-agreement-to-secure-supply",
