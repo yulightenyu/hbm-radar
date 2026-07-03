@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T03:29:51.846485Z",
+  "updated": "2026-07-03T09:22:14.465008Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 304000.0,
-      "change": 6.29,
+      "price": 309500.0,
+      "change": 8.22,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 2274000.0,
-      "change": 3.98,
+      "price": 2425000.0,
+      "change": 10.88,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 255.51,
-      "change": 8.88,
+      "price": 259.56,
+      "change": 10.61,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 198.06976
+      "pe": 201.2093
     }
   ],
   "dcf": {
@@ -81,13 +81,6 @@
       "src": "TechPowerUp",
       "date": "2026-07-01T15:45:14",
       "zh": "(PR) 美光与通用汽车签署战略协议以确保供应"
-    },
-    {
-      "title": "AMD to Raise Radeon GPU Kit Prices by 10% in July",
-      "link": "https://www.techpowerup.com/350427/amd-to-raise-radeon-gpu-kit-prices-by-10-in-july",
-      "src": "TechPowerUp",
-      "date": "2026-06-30T18:33:36",
-      "zh": "AMD 将于 7 月份将 Radeon GPU 套件价格提高 10%"
     },
     {
       "title": "Micron invests in Anthropic and grants it a supply deal",
