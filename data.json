@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:26:14.913316Z",
+  "updated": "2026-07-04T03:22:21.513003Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 309500.0,
+      "change": 8.22,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 2425000.0,
+      "change": 10.88,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 259.56,
+      "change": 10.61,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.29,
-      "pe": 201.2093
+      "eps": 1.27,
+      "pe": 204.37796
     }
   ],
   "dcf": {
@@ -74,13 +74,6 @@
       "src": "Blocks and Files: The ho",
       "date": "2026-07-02T14:08:22",
       "zh": "美光与通用汽车签署长期芯片供应协议"
-    },
-    {
-      "title": "(PR) Micron and General Motors Sign Strategic Agreement to Secure Supply",
-      "link": "https://www.techpowerup.com/350440/micron-and-general-motors-sign-strategic-agreement-to-secure-supply",
-      "src": "TechPowerUp",
-      "date": "2026-07-01T15:45:14",
-      "zh": "(PR) 美光与通用汽车签署战略协议以确保供应"
     },
     {
       "title": "Micron invests in Anthropic and grants it a supply deal",
