@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T13:38:22.917653Z",
+  "updated": "2026-07-04T19:17:15.171473Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "YMTC SSDs Ship With Global Lenovo Laptops for the First Time",
+      "link": "https://www.techpowerup.com/350515/ymtc-ssds-ship-with-global-lenovo-laptops-for-the-first-time",
+      "src": "TechPowerUp",
+      "date": "2026-07-04T17:56:14",
+      "zh": "长江存储SSD首次搭载全球联想笔记本电脑"
+    },
     {
       "title": "Micron and GM sign long-term chip supply agreement",
       "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
