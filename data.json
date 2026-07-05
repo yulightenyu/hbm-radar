@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T13:44:33.686331Z",
+  "updated": "2026-07-05T19:21:06.806905Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -74,6 +74,20 @@
       "src": "TechPowerUp",
       "date": "2026-07-04T17:56:14",
       "zh": "长江存储SSD首次搭载全球联想笔记本电脑"
+    },
+    {
+      "title": "Micron and GM sign long-term chip supply agreement",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-02T14:08:22",
+      "zh": "美光与通用汽车签署长期芯片供应协议"
+    },
+    {
+      "title": "Micron invests in Anthropic and grants it a supply deal",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-06-23T12:25:48",
+      "zh": "美光投资 Anthropic 并授予其供应协议"
     }
   ],
   "hbm": []
