@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T03:37:31.776571Z",
+  "updated": "2026-07-07T09:46:26.175169Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 291000.0,
-      "change": -8.49,
+      "price": 296000.0,
+      "change": -6.92,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 2159000.0,
-      "change": -7.85,
+      "price": 2201000.0,
+      "change": -6.06,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 232.23,
-      "change": -8.21,
+      "price": 231.2,
+      "change": -8.62,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 180.02325
+      "pe": 179.22481
     }
   ],
   "dcf": {
@@ -69,6 +69,13 @@
   },
   "micron": [
     {
+      "title": "(PR) Micron and Ford Sign Strategic Agreement to Strengthen Long-Term Memory Supply",
+      "link": "https://www.techpowerup.com/350570/micron-and-ford-sign-strategic-agreement-to-strengthen-long-term-memory-supply",
+      "src": "TechPowerUp",
+      "date": "2026-07-07T08:08:38",
+      "zh": "(PR) 美光与福特签署战略协议以加强长期内存供应"
+    },
+    {
       "title": "Micron Breaks Ground on $9.3 Billion Hiroshima Fab Expansion",
       "link": "https://www.techpowerup.com/350561/micron-breaks-ground-on-usd-9-3-billion-hiroshima-fab-expansion",
       "src": "TechPowerUp",
@@ -93,8 +100,7 @@
       "title": "Micron invests in Anthropic and grants it a supply deal",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
       "src": "Blocks and Files: The ho",
-      "date": "2026-06-23T12:25:48",
-      "zh": "美光投资 Anthropic 并授予其供应协议"
+      "date": "2026-06-23T12:25:48"
     }
   ],
   "hbm": [
