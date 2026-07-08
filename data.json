@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-08T08:32:31.696523Z",
+  "updated": "2026-07-08T14:16:16.120592Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 938.38,
-      "change": -4.71,
+      "price": 942.28,
+      "change": 0.42,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 42.13,
-      "pe": 22.27344
+      "eps": 44.2,
+      "pe": 21.31844
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 938.38,
-    "upside": -94.78,
+    "price": 942.76,
+    "upside": -94.81,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -95,12 +95,6 @@
       "src": "Blocks and Files: The ho",
       "date": "2026-07-02T14:08:22",
       "zh": "美光与通用汽车签署长期芯片供应协议"
-    },
-    {
-      "title": "Micron invests in Anthropic and grants it a supply deal",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/06/23/micron-invests-in-anthropic-and-grants-it-a-supply-deal/5260050",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-06-23T12:25:48"
     }
   ],
   "hbm": [
