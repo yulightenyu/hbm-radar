@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T03:30:54.221943Z",
+  "updated": "2026-07-09T09:43:26.967558Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 270000.0,
-      "change": -2.7,
+      "price": 278000.0,
+      "change": 0.18,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 2106000.0,
-      "change": 1.45,
+      "price": 2186000.0,
+      "change": 5.3,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 221.39,
-      "change": 2.79,
+      "price": 236.02,
+      "change": 9.58,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 171.62016
+      "pe": 182.96124
     }
   ],
   "dcf": {
@@ -74,22 +74,7 @@
       "src": "TechPowerUp",
       "date": "2026-07-07T08:08:38",
       "zh": "(PR) 美光与福特签署战略协议以加强长期内存供应"
-    },
-    {
-      "title": "Micron Breaks Ground on $9.3 Billion Hiroshima Fab Expansion",
-      "link": "https://www.techpowerup.com/350561/micron-breaks-ground-on-usd-9-3-billion-hiroshima-fab-expansion",
-      "src": "TechPowerUp",
-      "date": "2026-07-06T20:26:08",
-      "zh": "美光耗资 93 亿美元的广岛工厂扩建工程破土动工"
     }
   ],
-  "hbm": [
-    {
-      "title": "Micron Breaks Ground on $9.3 Billion Hiroshima Fab Expansion",
-      "link": "https://www.techpowerup.com/350561/micron-breaks-ground-on-usd-9-3-billion-hiroshima-fab-expansion",
-      "src": "TechPowerUp",
-      "date": "2026-07-06T20:26:08",
-      "zh": "美光耗资 93 亿美元的广岛工厂扩建工程破土动工"
-    }
-  ]
+  "hbm": []
 }
