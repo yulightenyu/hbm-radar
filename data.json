@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T02:57:15.163988Z",
+  "updated": "2026-07-12T08:21:44.031561Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -19,7 +19,9 @@
       "price": 285000.0,
       "change": 2.52,
       "revenue": 333605938000000.0,
-      "gross_margin": 39.4
+      "gross_margin": 39.4,
+      "eps": null,
+      "pe": null
     },
     {
       "ticker": "000660.KS",
