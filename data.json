@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-13T14:38:41.051114Z",
+  "updated": "2026-07-13T19:25:51.525420Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 935.04,
-      "change": -4.52,
+      "price": 929.89,
+      "change": -5.05,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.26,
-      "pe": 21.121555
+      "pe": 21.009716
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 254500.0,
-      "change": -10.7,
+      "price": 285000.0,
+      "change": 2.52,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1845000.0,
-      "change": -15.37,
+      "price": 2180000.0,
+      "change": -0.27,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 190.17,
-      "change": -13.52,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 935.1,
-    "upside": -94.76,
+    "price": 930.08,
+    "upside": -94.73,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -69,11 +69,11 @@
   },
   "micron": [
     {
-      "title": "(PR) Micron Accelerates U.S. Investments, Pours First Concrete at New York Fab",
-      "link": "https://www.techpowerup.com/350640/micron-accelerates-u-s-investments-pours-first-concrete-at-new-york-fab",
+      "title": "Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year",
+      "link": "https://www.techpowerup.com/350726/chinese-cxmt-to-match-microns-dram-manufacturing-capacity-this-year",
       "src": "TechPowerUp",
-      "date": "2026-07-09T14:55:15",
-      "zh": "(公关) 美光加速美国投资，在纽约工厂浇筑第一块混凝土"
+      "date": "2026-07-13T16:00:00",
+      "zh": "中国长鑫存储今年将与美光的 DRAM 制造能力相匹配"
     },
     {
       "title": "Micron and GM sign long-term chip supply agreement",
@@ -83,5 +83,13 @@
       "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "(PR) JEDEC SPHBM4 Standard Enables HBM4-Class Bandwidth on Organic Substrates",
+      "link": "https://www.techpowerup.com/350725/jedec-sphbm4-standard-enables-hbm4-class-bandwidth-on-organic-substrates",
+      "src": "TechPowerUp",
+      "date": "2026-07-13T15:34:24",
+      "zh": "(PR) JEDEC SPHBM4 标准在有机基板上实现 HBM4 级带宽"
+    }
+  ]
 }
