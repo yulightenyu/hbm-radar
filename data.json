@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-14T08:09:50.043262Z",
+  "updated": "2026-07-14T13:48:58.472896Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 937.0,
-      "change": -4.32,
+      "price": 980.43,
+      "change": 4.64,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 42.35,
@@ -43,7 +43,7 @@
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 161.0
+      "pe": 147.41861
     }
   ],
   "dcf": {
@@ -69,11 +69,25 @@
   },
   "micron": [
     {
+      "title": "YMTC SSDs Ship With German Lenovo Laptops for the First Time",
+      "link": "https://www.techpowerup.com/350515/ymtc-ssds-ship-with-german-lenovo-laptops-for-the-first-time",
+      "src": "TechPowerUp",
+      "date": "2026-07-14T12:46:36",
+      "zh": "长江存储SSD首次搭载德国联想笔记本电脑"
+    },
+    {
       "title": "Chinese CXMT to Match Micron's DRAM Manufacturing Capacity This Year",
       "link": "https://www.techpowerup.com/350726/chinese-cxmt-to-match-microns-dram-manufacturing-capacity-this-year",
       "src": "TechPowerUp",
       "date": "2026-07-13T16:00:00",
       "zh": "中国长鑫存储今年将与美光的 DRAM 制造能力相匹配"
+    },
+    {
+      "title": "Micron and GM sign long-term chip supply agreement",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-02T14:08:22",
+      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": [
