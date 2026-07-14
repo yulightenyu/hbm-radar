@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T02:39:59.503132Z",
+  "updated": "2026-07-14T08:09:50.043262Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": -4.32,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.26,
-      "pe": 21.170359
+      "eps": 42.35,
+      "pe": 22.125149
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 256500.0,
-      "change": 0.79,
+      "price": 263000.0,
+      "change": 3.34,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1787000.0,
-      "change": -3.14,
+      "price": 1913000.0,
+      "change": 3.69,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 199.2,
-      "change": 4.75,
+      "price": 207.69,
+      "change": 9.21,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.28,
-      "pe": 148.57031
+      "eps": 1.29,
+      "pe": 161.0
     }
   ],
   "dcf": {
@@ -74,13 +74,6 @@
       "src": "TechPowerUp",
       "date": "2026-07-13T16:00:00",
       "zh": "中国长鑫存储今年将与美光的 DRAM 制造能力相匹配"
-    },
-    {
-      "title": "Micron and GM sign long-term chip supply agreement",
-      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-07-02T14:08:22",
-      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": [
