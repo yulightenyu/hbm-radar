@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-16T08:17:31.020586Z",
+  "updated": "2026-07-16T13:57:26.381627Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 904.28,
-      "change": -8.02,
+      "price": 858.66,
+      "change": -5.04,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 40.69,
-      "pe": 22.223644
+      "eps": 44.22,
+      "pe": 19.41791
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 904.28,
-    "upside": -94.58,
+    "price": 859.53,
+    "upside": -94.3,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
