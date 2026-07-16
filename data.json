@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T02:45:42.971304Z",
+  "updated": "2026-07-16T08:17:31.020586Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 256500.0,
-      "change": -8.23,
+      "price": 255000.0,
+      "change": -8.77,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1858000.0,
-      "change": -10.76,
+      "price": 1842000.0,
+      "change": -11.53,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 181.52,
-      "change": -4.55,
+      "price": 174.6,
+      "change": -8.19,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.27,
-      "pe": 142.94489
+      "pe": 137.48032
     }
   ],
   "dcf": {
@@ -69,11 +69,11 @@
   },
   "micron": [
     {
-      "title": "YMTC SSDs Ship With German Lenovo Laptops for the First Time",
-      "link": "https://www.techpowerup.com/350515/ymtc-ssds-ship-with-german-lenovo-laptops-for-the-first-time",
-      "src": "TechPowerUp",
-      "date": "2026-07-14T12:46:36",
-      "zh": "长江存储SSD首次搭载德国联想笔记本电脑"
+      "title": "Micron and GM sign long-term chip supply agreement",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-02T14:08:22",
+      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": []
