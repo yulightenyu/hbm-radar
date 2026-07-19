@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:08:13.045916Z",
+  "updated": "2026-07-19T02:54:03.078911Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 848.95,
-    "upside": -94.23,
+    "upside": 6515031716.81,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -74,13 +74,6 @@
       "src": "TechPowerUp",
       "date": "2026-07-17T17:56:27",
       "zh": "PC厂商争夺CXMT内存供应，规模较小的OEM厂商陷入困境"
-    },
-    {
-      "title": "Micron and GM sign long-term chip supply agreement",
-      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-07-02T14:08:22",
-      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": []
