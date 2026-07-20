@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-20T09:18:21.436890Z",
+  "updated": "2026-07-20T14:10:07.870014Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 848.95,
-      "change": -0.5,
+      "price": 883.46,
+      "change": 4.07,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.23,
-      "pe": 19.193987
+      "pe": 19.974226
     },
     {
       "ticker": "005930.KS",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 848.95,
-    "upside": 6515031716.81,
+    "fair_value": 48.97,
+    "price": 881.65,
+    "upside": -94.45,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -74,6 +74,13 @@
       "src": "TechPowerUp",
       "date": "2026-07-17T17:56:27",
       "zh": "PC厂商争夺CXMT内存供应，规模较小的OEM厂商陷入困境"
+    },
+    {
+      "title": "Micron and GM sign long-term chip supply agreement",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-02T14:08:22",
+      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": []
