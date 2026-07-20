@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-20T14:10:07.870014Z",
+  "updated": "2026-07-20T19:45:56.412203Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 883.46,
-      "change": 4.07,
+      "price": 864.0,
+      "change": 1.77,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.23,
-      "pe": 19.974226
+      "pe": 19.534256
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 244000.0,
-      "change": -4.31,
+      "price": 255000.0,
+      "change": -8.77,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1764000.0,
-      "change": -4.23,
+      "price": 1842000.0,
+      "change": -11.53,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 143.65,
-      "change": -6.61,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
-    "price": 881.65,
-    "upside": -94.45,
+    "fair_value": 55309362608.83,
+    "price": 864.01,
+    "upside": 6401472407.13,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -74,13 +74,6 @@
       "src": "TechPowerUp",
       "date": "2026-07-17T17:56:27",
       "zh": "PC厂商争夺CXMT内存供应，规模较小的OEM厂商陷入困境"
-    },
-    {
-      "title": "Micron and GM sign long-term chip supply agreement",
-      "link": "https://www.blocksandfiles.com/flash/2026/07/02/micron-and-gm-sign-long-term-chip-supply-agreement/5265574",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-07-02T14:08:22",
-      "zh": "美光与通用汽车签署长期芯片供应协议"
     }
   ],
   "hbm": []
