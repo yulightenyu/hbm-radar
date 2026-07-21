@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-21T13:56:04.219517Z",
+  "updated": "2026-07-21T19:26:28.888688Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 931.92,
-      "change": 7.68,
+      "price": 964.24,
+      "change": 11.41,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.23,
-      "pe": 21.071445
+      "pe": 21.800701
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 259000.0,
-      "change": 6.15,
+      "price": 244000.0,
+      "change": -4.31,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1836000.0,
-      "change": 4.08,
+      "price": 1764000.0,
+      "change": -4.23,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 168.0,
-      "change": 16.95,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -59,22 +59,22 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 932.05,
-    "upside": -94.75,
+    "price": 964.0,
+    "upside": -94.92,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [
+  "micron": [],
+  "hbm": [
     {
-      "title": "PC Vendors \"Fight\" for CXMT Memory Supply, Smaller OEMs Struggle",
-      "link": "https://www.techpowerup.com/350853/pc-vendors-fight-for-cxmt-memory-supply-smaller-oems-struggle",
+      "title": "NVIDIA Shares \"Rubin\" GPU Deep-Dive and Die Annotation",
+      "link": "https://www.techpowerup.com/350947/nvidia-shares-rubin-gpu-deep-dive-and-die-annotation",
       "src": "TechPowerUp",
-      "date": "2026-07-17T17:56:27",
-      "zh": "PC厂商争夺CXMT内存供应，规模较小的OEM厂商陷入困境"
+      "date": "2026-07-21T18:57:55",
+      "zh": "NVIDIA 分享“Rubin”GPU 深入研究和芯片注释"
     }
-  ],
-  "hbm": []
+  ]
 }
