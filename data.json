@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T02:48:38.909112Z",
+  "updated": "2026-07-22T08:32:22.461678Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 274000.0,
-      "change": 5.79,
+      "price": 260500.0,
+      "change": 0.58,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1986000.0,
-      "change": 8.17,
+      "price": 1830000.0,
+      "change": -0.33,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 167.0,
-      "change": -0.6,
+      "price": 157.82,
+      "change": -6.06,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 130.46094
+      "pe": 123.29688
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 970.82,
-    "upside": -94.96,
+    "upside": 5697179872.48,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "NVIDIA Shares \"Rubin\" GPU Deep-Dive and Die Annotation",
-      "link": "https://www.techpowerup.com/350947/nvidia-shares-rubin-gpu-deep-dive-and-die-annotation",
-      "src": "TechPowerUp",
-      "date": "2026-07-21T18:57:55",
-      "zh": "NVIDIA 分享“Rubin”GPU 深入研究和芯片注释"
-    }
-  ]
+  "hbm": []
 }
