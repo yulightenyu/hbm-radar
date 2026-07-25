@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-24T19:27:05.002944Z",
+  "updated": "2026-07-25T02:48:48.190811Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 911.29,
-      "change": -7.97,
+      "price": 920.95,
+      "change": -6.99,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.26,
-      "pe": 20.581
+      "pe": 20.807728
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 249500.0,
+      "change": -7.59,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1759000.0,
+      "change": -8.34,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 143.65,
+      "change": -5.34,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.29,
-      "pe": 111.35659
+      "eps": 1.28,
+      "pe": 112.22656
     }
   ],
   "dcf": {
@@ -59,15 +59,23 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 911.03,
-    "upside": -94.62,
+    "price": 920.95,
+    "upside": -94.68,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "CXMT Reportedly Outprices Samsung for DDR5 Server Memory Amid Surging Demand",
+      "link": "https://www.techpowerup.com/351063/cxmt-reportedly-outprices-samsung-for-ddr5-server-memory-amid-surging-demand",
+      "src": "TechPowerUp",
+      "date": "2026-07-24T20:46:16",
+      "zh": "据报道，在需求激增的情况下，长鑫存储的 DDR5 服务器内存价格超过了三星"
+    }
+  ],
   "hbm": [
     {
       "title": "AMD Instinct MI400 Series and Helios Rack Debut: CDNA 5 Goes 2 nm, Plus ROCm.ai and \"Gorgon Halo\"",
