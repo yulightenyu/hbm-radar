@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-27T09:55:42.335395Z",
+  "updated": "2026-07-27T14:39:31.704233Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 920.95,
-      "change": -6.99,
+      "price": 859.01,
+      "change": -6.73,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.21,
-      "pe": 20.83126
+      "pe": 19.436552
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 920.95,
-    "upside": -94.68,
+    "price": 860.07,
+    "upside": -94.31,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -76,13 +76,5 @@
       "zh": "据报道，在需求激增的情况下，长鑫存储的 DDR5 服务器内存价格超过了三星"
     }
   ],
-  "hbm": [
-    {
-      "title": "AMD Instinct MI400 Series and Helios Rack Debut: CDNA 5 Goes 2 nm, Plus ROCm.ai and \"Gorgon Halo\"",
-      "link": "https://www.techpowerup.com/351006/amd-instinct-mi400-series-and-helios-rack-debut-cdna-5-goes-2-nm-plus-rocm-ai-and-gorgon-halo",
-      "src": "TechPowerUp",
-      "date": "2026-07-23T19:30:30",
-      "zh": "AMD Instinct MI400 系列和 Helios 机架首次亮相：CDNA 5 采用 2 nm，加上 ROCm.ai 和“Gorgon Halo”"
-    }
-  ]
+  "hbm": []
 }
