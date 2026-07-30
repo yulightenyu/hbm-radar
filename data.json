@@ -1,16 +1,16 @@
 {
-  "updated": "2026-07-30T08:29:50.167832Z",
+  "updated": "2026-07-30T14:07:06.913340Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 739.0,
-      "change": -9.94,
+      "price": 828.78,
+      "change": 12.15,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 39.83,
-      "pe": 18.553852
+      "eps": 44.27,
+      "pe": 18.72159
     },
     {
       "ticker": "005930.KS",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
-    "price": 739.0,
-    "upside": -93.37,
+    "fair_value": 55309362608.83,
+    "price": 828.66,
+    "upside": 6674514041.28,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,5 +68,13 @@
     }
   },
   "micron": [],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "(PR) Diverging Memory Market Outlook in 2027 as DRAM Supply Remains Tight While NAND Flash Supply Conditions Ease",
+      "link": "https://www.techpowerup.com/351223/diverging-memory-market-outlook-in-2027-as-dram-supply-remains-tight-while-nand-flash-supply-conditions-ease",
+      "src": "TechPowerUp",
+      "date": "2026-07-30T09:11:28",
+      "zh": "(PR) 2027 年内存市场前景出现分化，DRAM 供应依然紧张，而 NAND 闪存供应状况有所缓解"
+    }
+  ]
 }
