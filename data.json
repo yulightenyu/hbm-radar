@@ -1,23 +1,23 @@
 {
-  "updated": "2026-07-31T14:11:23.553715Z",
+  "updated": "2026-07-31T19:36:13.089859Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 836.69,
-      "change": -4.34,
+      "price": 838.49,
+      "change": -4.14,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 52.39,
-      "pe": 15.981104
+      "eps": 44.26,
+      "pe": 18.944645
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 262500.0,
-      "change": 26.81,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1718000.0,
-      "change": 29.95,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 126.81,
-      "change": 2.55,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 838.51,
-    "upside": 6596148140.19,
+    "fair_value": 48.97,
+    "price": 838.85,
+    "upside": -94.16,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Sony Stocks Up on DRAM for PlayStation 5 Prior to GTA VI Launch",
+      "link": "https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch",
+      "src": "TechPowerUp",
+      "date": "2026-07-31T14:33:51",
+      "zh": "索尼在 GTA VI 发布前为 PlayStation 5 储备 DRAM"
+    },
     {
       "title": "AMD Reportedly Plans 10% GPU Price Hike in August",
       "link": "https://www.techpowerup.com/351255/amd-reportedly-plans-10-gpu-price-hike-in-august",
