@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:25:22.600964Z",
+  "updated": "2026-08-01T19:10:50.256295Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -89,7 +89,7 @@
       "link": "https://www.techpowerup.com/351223/diverging-memory-market-outlook-in-2027-as-dram-supply-remains-tight-while-nand-flash-supply-conditions-ease",
       "src": "TechPowerUp",
       "date": "2026-07-30T09:11:28",
-      "zh": "(PR) 2027 年内存市场前景出现分化，DRAM 供应依然紧张，而 NAND 闪存供应状况有所缓解"
+      "zh": "(PR) 2027 年内存市场前景分化，DRAM 供应依然紧张，而 NAND 闪存供应状况有所缓解"
     }
   ]
 }
