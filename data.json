@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:10:50.256295Z",
+  "updated": "2026-08-02T02:56:43.926663Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 823.03,
-    "upside": 6720212116.91,
+    "upside": -94.05,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -85,11 +85,18 @@
   ],
   "hbm": [
     {
+      "title": "For Samsung, HBM is the gift that keeps on giving",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-31T14:05:00",
+      "zh": "对于三星来说，HBM 是不断赠送的礼物"
+    },
+    {
       "title": "(PR) Diverging Memory Market Outlook in 2027 as DRAM Supply Remains Tight While NAND Flash Supply Conditions Ease",
       "link": "https://www.techpowerup.com/351223/diverging-memory-market-outlook-in-2027-as-dram-supply-remains-tight-while-nand-flash-supply-conditions-ease",
       "src": "TechPowerUp",
       "date": "2026-07-30T09:11:28",
-      "zh": "(PR) 2027 年内存市场前景分化，DRAM 供应依然紧张，而 NAND 闪存供应状况有所缓解"
+      "zh": "(PR) 2027 年内存市场前景出现分化，DRAM 供应依然紧张，而 NAND 闪存供应状况有所缓解"
     }
   ]
 }
