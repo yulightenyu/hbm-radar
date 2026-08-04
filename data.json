@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-04T02:42:47.278940Z",
+  "updated": "2026-08-04T08:40:15.100441Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 829.5,
-      "change": 0.79,
+      "price": NaN,
+      "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.28,
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 235500.0,
-      "change": -1.67,
+      "price": 240000.0,
+      "change": 0.21,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1528000.0,
-      "change": -2.49,
+      "price": 1577000.0,
+      "change": 0.64,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 119.0,
-      "change": -6.16,
+      "price": 126.26,
+      "change": 6.1,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.28,
-      "pe": 92.96875
+      "eps": 1.2,
+      "pe": 105.21667
     }
   ],
   "dcf": {
@@ -67,15 +67,7 @@
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Sony Stocks Up on DRAM for PlayStation 5 Prior to GTA VI Launch",
-      "link": "https://www.techpowerup.com/351264/sony-stocks-up-on-dram-for-playstation-5-prior-to-gta-vi-launch",
-      "src": "TechPowerUp",
-      "date": "2026-07-31T14:33:51",
-      "zh": "索尼在 GTA VI 发布前为 PlayStation 5 储备 DRAM"
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "For Samsung, HBM is the gift that keeps on giving",
