@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-04T19:39:45.674751Z",
+  "updated": "2026-08-05T02:40:48.888240Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 895.58,
-      "change": 7.97,
+      "price": 892.67,
+      "change": 7.62,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.21,
-      "pe": 20.257154
+      "eps": 44.28,
+      "pe": 20.159666
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 239500.0,
-      "change": -8.76,
+      "price": 247000.0,
+      "change": 2.92,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1567000.0,
-      "change": -8.79,
+      "price": 1668000.0,
+      "change": 5.77,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 130.51,
+      "change": 3.37,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.29,
-      "pe": 97.87598
+      "eps": 1.36,
+      "pe": 95.963234
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 895.27,
-    "upside": 6177918708.06,
+    "fair_value": 48.97,
+    "price": 892.67,
+    "upside": -94.51,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:59:08",
-      "zh": "长鑫存储12.8 Gbps内存芯片进入LPDDR6风险生产"
+      "zh": "长鑫存储进入 12.8 Gbps 内存芯片 LPDDR6 风险生产"
     },
     {
       "title": "(PR) Microchip Partners with Micron to Showcase High-Performance PCIe Gen 6 Storage Architecture",
@@ -87,8 +87,23 @@
       "link": "https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers",
       "src": "TechPowerUp",
       "date": "2026-08-04T09:04:23",
-      "zh": "内存制造商敲定 2027 年交易：没有新买家的空间"
+      "zh": "内存制造商签订 2027 年交易：没有新买家的空间"
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026",
+      "link": "https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026",
+      "src": "TechPowerUp",
+      "date": "2026-08-04T20:24:43",
+      "zh": "(PR) 三星在 FMS 2026 上推出下一代 3D 存储视觉"
+    },
+    {
+      "title": "For Samsung, HBM is the gift that keeps on giving",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-31T14:05:00",
+      "zh": "对于三星来说，HBM 是不断赠送的礼物"
+    }
+  ]
 }
