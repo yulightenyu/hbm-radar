@@ -1,16 +1,16 @@
 {
-  "updated": "2026-08-05T08:38:42.669727Z",
+  "updated": "2026-08-05T14:12:57.477528Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 892.67,
-      "change": 7.62,
+      "price": 920.0,
+      "change": 3.06,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 47.58,
-      "pe": 18.761454
+      "eps": 44.63,
+      "pe": 20.618122
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": 7.74,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 1.36,
-      "pe": 100.02206
+      "eps": 1.29,
+      "pe": 105.449615
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 892.67,
-    "upside": 6195947182.74,
+    "fair_value": 48.97,
+    "price": 920.13,
+    "upside": -94.68,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -69,25 +69,32 @@
   },
   "micron": [
     {
+      "title": "Samsung Continues DRAM Market Share Lead, Micron Is Catching Up, Notes Report",
+      "link": "https://www.techpowerup.com/351380/samsung-continues-dram-market-share-lead-micron-is-catching-up-notes-report",
+      "src": "TechPowerUp",
+      "date": "2026-08-05T12:39:28",
+      "zh": "报告指出，三星继续保持 DRAM 市场份额领先地位，美光正在迎头赶上"
+    },
+    {
       "title": "CXMT Enters LPDDR6 Risk Production with 12.8 Gbps Memory Chips",
       "link": "https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:59:08",
-      "zh": "长鑫存储12.8 Gbps内存芯片进入LPDDR6风险生产"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "(PR) Microchip Partners with Micron to Showcase High-Performance PCIe Gen 6 Storage Architecture",
       "link": "https://www.techpowerup.com/351349/microchip-partners-with-micron-to-showcase-high-performance-pcie-gen-6-storage-architecture",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:57:42",
-      "zh": "(PR) Microchip 与 Micron 合作展示高性能 PCIe Gen 6 存储架构"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Memory Makers Seal 2027 Deals: No Room for New Buyers",
       "link": "https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers",
       "src": "TechPowerUp",
       "date": "2026-08-04T09:04:23",
-      "zh": "内存制造商敲定 2027 年交易：没有新买家的空间"
+      "zh": "内存制造商签订 2027 年交易：没有新买家的空间"
     }
   ],
   "hbm": [
@@ -103,7 +110,7 @@
       "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
       "src": "Blocks and Files: The ho",
       "date": "2026-07-31T14:05:00",
-      "zh": "对于三星来说，HBM 是不断赠送的礼物"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
 }
