@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T02:40:48.888240Z",
+  "updated": "2026-08-05T08:38:42.669727Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 7.62,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.28,
-      "pe": 20.159666
+      "eps": 47.58,
+      "pe": 18.761454
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 247000.0,
-      "change": 2.92,
+      "price": 246000.0,
+      "change": 2.5,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 130.51,
-      "change": 3.37,
+      "price": 136.03,
+      "change": 7.74,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.36,
-      "pe": 95.963234
+      "pe": 100.02206
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 892.67,
-    "upside": -94.51,
+    "upside": 6195947182.74,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:59:08",
-      "zh": "长鑫存储进入 12.8 Gbps 内存芯片 LPDDR6 风险生产"
+      "zh": "长鑫存储12.8 Gbps内存芯片进入LPDDR6风险生产"
     },
     {
       "title": "(PR) Microchip Partners with Micron to Showcase High-Performance PCIe Gen 6 Storage Architecture",
@@ -87,7 +87,7 @@
       "link": "https://www.techpowerup.com/351344/memory-makers-seal-2027-deals-no-room-for-new-buyers",
       "src": "TechPowerUp",
       "date": "2026-08-04T09:04:23",
-      "zh": "内存制造商签订 2027 年交易：没有新买家的空间"
+      "zh": "内存制造商敲定 2027 年交易：没有新买家的空间"
     }
   ],
   "hbm": [
