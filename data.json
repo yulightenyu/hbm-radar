@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T02:43:15.540621Z",
+  "updated": "2026-08-06T08:39:19.641033Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 232000.0,
-      "change": -5.69,
+      "price": 230500.0,
+      "change": -6.3,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1532000.0,
-      "change": -2.23,
+      "price": 1495000.0,
+      "change": -10.37,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 138.1,
-      "change": 1.52,
+      "price": 137.0,
+      "change": 0.71,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 107.89063
+      "pe": 107.03125
     }
   ],
   "dcf": {
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351380/samsung-continues-dram-market-share-lead-micron-is-catching-up-notes-report",
       "src": "TechPowerUp",
       "date": "2026-08-05T12:39:28",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "报告指出，三星继续保持 DRAM 市场份额领先地位，美光正在迎头赶上"
     },
     {
       "title": "CXMT Enters LPDDR6 Risk Production with 12.8 Gbps Memory Chips",
@@ -87,7 +87,7 @@
       "link": "https://www.techpowerup.com/351349/microchip-partners-with-micron-to-showcase-high-performance-pcie-gen-6-storage-architecture",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:57:42",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "(PR) Microchip 与 Micron 合作展示高性能 PCIe Gen 6 存储架构"
     },
     {
       "title": "Memory Makers Seal 2027 Deals: No Room for New Buyers",
@@ -111,6 +111,13 @@
       "src": "TechPowerUp",
       "date": "2026-08-04T20:24:43",
       "zh": "(PR) 三星在 FMS 2026 上推出下一代 3D 存储视觉"
+    },
+    {
+      "title": "For Samsung, HBM is the gift that keeps on giving",
+      "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-07-31T14:05:00",
+      "zh": "对于三星来说，HBM 是不断赠送的礼物"
     }
   ]
 }
