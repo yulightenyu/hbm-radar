@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:18:56.953480Z",
+  "updated": "2026-08-07T13:07:46.037102Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,8 +9,8 @@
       "change": -1.31,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.21,
-      "pe": 19.93825
+      "eps": 44.25,
+      "pe": 19.920225
     },
     {
       "ticker": "005930.KS",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 881.47,
-    "upside": -94.44,
+    "upside": 6274673185.4,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -80,14 +80,7 @@
       "link": "https://www.techpowerup.com/351350/cxmt-enters-lpddr6-risk-production-with-12-8-gbps-memory-chips",
       "src": "TechPowerUp",
       "date": "2026-08-04T12:59:08",
-      "zh": "长鑫存储12.8 Gbps内存芯片进入LPDDR6风险生产"
-    },
-    {
-      "title": "(PR) Microchip Partners with Micron to Showcase High-Performance PCIe Gen 6 Storage Architecture",
-      "link": "https://www.techpowerup.com/351349/microchip-partners-with-micron-to-showcase-high-performance-pcie-gen-6-storage-architecture",
-      "src": "TechPowerUp",
-      "date": "2026-08-04T12:57:42",
-      "zh": "(PR) Microchip 与 Micron 合作展示高性能 PCIe Gen 6 存储架构"
+      "zh": "长鑫存储进入 12.8 Gbps 内存芯片 LPDDR6 风险生产"
     }
   ],
   "hbm": [
