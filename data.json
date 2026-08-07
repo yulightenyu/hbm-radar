@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T00:03:49.017849Z",
+  "updated": "2026-08-07T07:18:56.953480Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 230500.0,
-      "change": -6.3,
+      "price": 231000.0,
+      "change": 0.22,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1495000.0,
-      "change": -10.37,
+      "price": 1422000.0,
+      "change": -4.88,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 137.0,
-      "change": 0.71,
+      "price": 144.05,
+      "change": 5.15,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 106.20155
+      "pe": 111.66667
     }
   ],
   "dcf": {
@@ -110,7 +110,7 @@
       "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
       "src": "Blocks and Files: The ho",
       "date": "2026-07-31T14:05:00",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "对于三星来说，HBM 是不断赠送的礼物"
     }
   ]
 }
