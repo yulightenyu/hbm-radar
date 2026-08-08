@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T01:45:46.505597Z",
+  "updated": "2026-08-08T06:56:47.094926Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,8 +9,8 @@
       "change": -0.44,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.25,
-      "pe": 19.83209
+      "eps": 44.05,
+      "pe": 19.922134
     },
     {
       "ticker": "005930.KS",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 877.57,
-    "upside": -94.42,
+    "upside": 6302558397.76,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
