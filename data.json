@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T01:52:28.740506Z",
+  "updated": "2026-08-09T06:59:26.854492Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 877.57,
-    "upside": 6302558397.76,
+    "upside": -94.42,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
