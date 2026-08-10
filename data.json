@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T07:45:23.093589Z",
+  "updated": "2026-08-10T13:12:37.748246Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,24 +58,16 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 877.57,
-    "upside": 6302558397.76,
+    "upside": -94.42,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Samsung Continues DRAM Market Share Lead, Micron Is Catching Up, Notes Report",
-      "link": "https://www.techpowerup.com/351380/samsung-continues-dram-market-share-lead-micron-is-catching-up-notes-report",
-      "src": "TechPowerUp",
-      "date": "2026-08-05T12:39:28",
-      "zh": "报告指出，三星继续保持 DRAM 市场份额领先地位，美光正在迎头赶上"
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "(PR) NEO Semiconductor Launches NEO.AI Memory Platform",
@@ -83,13 +75,6 @@
       "src": "TechPowerUp",
       "date": "2026-08-05T14:41:13",
       "zh": "(PR) NEO 半导体推出 NEO.AI 内存平台"
-    },
-    {
-      "title": "(PR) Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026",
-      "link": "https://www.techpowerup.com/351366/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026",
-      "src": "TechPowerUp",
-      "date": "2026-08-04T20:24:43",
-      "zh": "(PR) 三星在 FMS 2026 上推出下一代 3D 存储视觉"
     },
     {
       "title": "For Samsung, HBM is the gift that keeps on giving",
