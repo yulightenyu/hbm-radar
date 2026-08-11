@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T07:10:42.113750Z",
+  "updated": "2026-08-11T13:09:24.560041Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 137.73,
-      "change": -0.54,
+      "price": 137.86,
+      "change": -0.45,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 106.76744
+      "pe": 106.86822
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 861.0,
-    "upside": 6423851538.66,
+    "upside": -94.31,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
