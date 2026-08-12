@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:27:18.023004Z",
+  "updated": "2026-08-12T13:13:19.983970Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,16 +58,24 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 868.52,
-    "upside": -94.36,
+    "upside": 6368231214.05,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "YMTC Surpasses Micron, Kioxia, and Sandisk in Global Storage Market Share",
+      "link": "https://www.techpowerup.com/351543/ymtc-surpasses-micron-kioxia-and-sandisk-in-global-storage-market-share",
+      "src": "TechPowerUp",
+      "date": "2026-08-12T09:39:43",
+      "zh": "长江存储全球存储市场份额超越美光、铠侠、闪迪"
+    }
+  ],
   "hbm": [
     {
       "title": "For Samsung, HBM is the gift that keeps on giving",
