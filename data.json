@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-12T13:13:19.983970Z",
+  "updated": "2026-08-12T19:03:47.429623Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 868.52,
-      "change": 0.87,
+      "price": 922.79,
+      "change": 6.25,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.64,
-      "pe": 19.456095
+      "eps": 44.21,
+      "pe": 20.873106
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 255500.0,
-      "change": 6.68,
+      "price": 239500.0,
+      "change": 4.13,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1504000.0,
-      "change": 5.54,
+      "price": 1425000.0,
+      "change": 0.35,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 140.57,
-      "change": 1.97,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 55309362608.83,
-    "price": 868.52,
-    "upside": 6368231214.05,
+    "price": 922.79,
+    "upside": 5993710561.02,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "CXMT Surpasses 90% DDR5 Yield, Challenges Industry Giants",
+      "link": "https://www.techpowerup.com/351557/cxmt-surpasses-90-ddr5-yield-challenges-industry-giants",
+      "src": "TechPowerUp",
+      "date": "2026-08-12T16:24:12",
+      "zh": "长鑫存储DDR5良率突破90%，挑战行业巨头"
+    },
     {
       "title": "YMTC Surpasses Micron, Kioxia, and Sandisk in Global Storage Market Share",
       "link": "https://www.techpowerup.com/351543/ymtc-surpasses-micron-kioxia-and-sandisk-in-global-storage-market-share",
