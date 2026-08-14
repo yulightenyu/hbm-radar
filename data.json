@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-14T13:09:52.948926Z",
+  "updated": "2026-08-14T18:56:27.266504Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 949.83,
-      "change": 4.23,
+      "price": 964.56,
+      "change": 1.55,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.26,
-      "pe": 21.460236
+      "pe": 21.793041
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 274500.0,
-      "change": 2.43,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1645000.0,
-      "change": 3.26,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 143.62,
-      "change": 4.47,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -58,24 +58,16 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 949.83,
-    "upside": 5823080094.23,
+    "fair_value": 48.97,
+    "price": 964.5,
+    "upside": -94.92,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "CXMT Surpasses 90% DDR5 Yield, Challenges Industry Giants",
-      "link": "https://www.techpowerup.com/351557/cxmt-surpasses-90-ddr5-yield-challenges-industry-giants",
-      "src": "TechPowerUp",
-      "date": "2026-08-12T16:24:12",
-      "zh": "长鑫存储DDR5良率突破90%，挑战行业巨头"
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "For Samsung, HBM is the gift that keeps on giving",
