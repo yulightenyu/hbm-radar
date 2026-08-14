@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:26:57.378954Z",
+  "updated": "2026-08-14T13:09:52.948926Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,8 +9,8 @@
       "change": 4.23,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 46.07,
-      "pe": 20.617105
+      "eps": 44.26,
+      "pe": 21.460236
     },
     {
       "ticker": "005930.KS",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 949.83,
-    "upside": -94.84,
+    "upside": 5823080094.23,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -74,13 +74,6 @@
       "src": "TechPowerUp",
       "date": "2026-08-12T16:24:12",
       "zh": "长鑫存储DDR5良率突破90%，挑战行业巨头"
-    },
-    {
-      "title": "YMTC Surpasses Micron, Kioxia, and Sandisk in Global Storage Market Share",
-      "link": "https://www.techpowerup.com/351543/ymtc-surpasses-micron-kioxia-and-sandisk-in-global-storage-market-share",
-      "src": "TechPowerUp",
-      "date": "2026-08-12T09:39:43",
-      "zh": "长江存储全球存储市场份额超越美光、铠侠、闪迪"
     }
   ],
   "hbm": [
