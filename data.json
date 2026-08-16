@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:42:10.211634Z",
+  "updated": "2026-08-16T12:41:39.776816Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "For Samsung, HBM is the gift that keeps on giving",
-      "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-07-31T14:05:00",
-      "zh": "对于三星来说，HBM 是不断赠送的礼物"
-    }
-  ]
+  "hbm": []
 }
