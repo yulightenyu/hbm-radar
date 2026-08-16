@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:32:05.313864Z",
+  "updated": "2026-08-16T01:24:30.334352Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 971.66,
-    "upside": -94.96,
+    "upside": 5692254660.8,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "For Samsung, HBM is the gift that keeps on giving",
-      "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-07-31T14:05:00",
-      "zh": "对于三星来说，HBM 是不断赠送的礼物"
-    }
-  ]
+  "hbm": []
 }
