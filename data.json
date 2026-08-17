@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T01:21:22.214192Z",
+  "updated": "2026-08-17T06:58:38.731467Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 143.62,
-      "change": 4.47,
+      "price": 155.07,
+      "change": 7.97,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 112.203125
+      "pe": 121.148445
     }
   ],
   "dcf": {
