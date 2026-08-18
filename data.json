@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-18T01:18:37.834487Z",
+  "updated": "2026-08-18T06:45:58.593615Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1011.75,
-      "change": 4.13,
+      "price": NaN,
+      "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 46.03,
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 282500.0,
-      "change": 2.91,
+      "price": 269000.0,
+      "change": -2.0,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1765000.0,
-      "change": 7.29,
+      "price": 1659000.0,
+      "change": 0.85,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 155.39,
-      "change": 8.2,
+      "price": 152.63,
+      "change": -1.78,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 120.45737
+      "pe": 118.31783
     }
   ],
   "dcf": {
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351649/cxmt-breaks-9-000-mt-s-barrier-with-ddr5",
       "src": "TechPowerUp",
       "date": "2026-08-17T13:28:09",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "长鑫存储凭借 DDR5 突破 9,000 MT/s 的障碍"
     }
   ],
   "hbm": [
@@ -89,7 +89,7 @@
       "link": "https://www.blocksandfiles.com/flash/2026/07/31/for-samsung-hbm-is-the-gift-that-keeps-on-giving/5281709",
       "src": "Blocks and Files: The ho",
       "date": "2026-07-31T14:05:00",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "对于三星来说，HBM 是不断赠送的礼物"
     }
   ]
 }
