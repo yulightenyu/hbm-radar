@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T06:45:58.593615Z",
+  "updated": "2026-08-18T12:49:58.082198Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 46.03,
-      "pe": 21.98023
+      "eps": 44.21,
+      "pe": 22.885094
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 269000.0,
-      "change": -2.0,
+      "price": 268500.0,
+      "change": -2.19,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1659000.0,
-      "change": 0.85,
+      "price": 1662000.0,
+      "change": 1.03,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 152.63,
-      "change": -1.78,
+      "price": 152.75,
+      "change": -1.7,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 118.31783
+      "pe": 118.41086
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 1011.75,
-    "upside": -95.16,
+    "upside": 5466702406.43,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "(PR) Combined Revenue of Top Five NAND Flash Brands Rises 77% QoQ in 2Q26; Micron Moves Up to Third Place",
+      "link": "https://www.techpowerup.com/351676/combined-revenue-of-top-five-nand-flash-brands-rises-77-qoq-in-2q26-micron-moves-up-to-third-place",
+      "src": "TechPowerUp",
+      "date": "2026-08-18T09:07:59",
+      "zh": "(PR) 2026 年第二季度 NAND Flash 前五品牌合并营收环比增长 77%；美光上升至第三位"
+    },
     {
       "title": "CXMT Breaks 9,000 MT/s Barrier with DDR5",
       "link": "https://www.techpowerup.com/351649/cxmt-breaks-9-000-mt-s-barrier-with-ddr5",
