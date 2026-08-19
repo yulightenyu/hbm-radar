@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:46:39.981251Z",
+  "updated": "2026-08-19T12:50:38.102793Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 248250.0,
-      "change": -7.54,
+      "price": 247500.0,
+      "change": -7.82,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1497000.0,
-      "change": -9.93,
+      "price": 1500000.0,
+      "change": -9.75,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 136.96,
-      "change": -10.34,
+      "price": 137.25,
+      "change": -10.15,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 107.00001
+      "pe": 107.22656
     }
   ],
   "dcf": {
@@ -73,14 +73,14 @@
       "link": "https://www.techpowerup.com/351676/combined-revenue-of-top-five-nand-flash-brands-rises-77-qoq-in-2q26-micron-moves-up-to-third-place",
       "src": "TechPowerUp",
       "date": "2026-08-18T09:07:59",
-      "zh": "(PR) 2026 年第二季度 NAND Flash 前五品牌合并营收环比增长 77%；美光上升至第三位"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "CXMT Breaks 9,000 MT/s Barrier with DDR5",
       "link": "https://www.techpowerup.com/351649/cxmt-breaks-9-000-mt-s-barrier-with-ddr5",
       "src": "TechPowerUp",
       "date": "2026-08-17T13:28:09",
-      "zh": "长鑫存储凭借 DDR5 突破 9,000 MT/s 的障碍"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "hbm": [
