@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-19T18:37:52.789618Z",
+  "updated": "2026-08-20T01:19:40.177718Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 929.2,
-      "change": -1.23,
+      "price": 937.1,
+      "change": -0.39,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.22,
-      "pe": 21.013002
+      "pe": 21.191881
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 268500.0,
-      "change": -2.19,
+      "price": 264500.0,
+      "change": 6.87,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1662000.0,
-      "change": 1.03,
+      "price": 1670000.0,
+      "change": 11.33,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 137.25,
+      "change": -10.15,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
-    "price": 929.24,
-    "upside": 5952107279.02,
+    "fair_value": 48.97,
+    "price": 937.11,
+    "upside": -94.77,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351676/combined-revenue-of-top-five-nand-flash-brands-rises-77-qoq-in-2q26-micron-moves-up-to-third-place",
       "src": "TechPowerUp",
       "date": "2026-08-18T09:07:59",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "(PR) 2026 年第二季度 NAND Flash 前五品牌合并营收环比增长 77%；美光上升至第三位"
     }
   ],
   "hbm": [
