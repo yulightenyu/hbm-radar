@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:41:59.135542Z",
+  "updated": "2026-08-22T12:41:47.260470Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 966.78,
-    "upside": 5720987364.45,
+    "upside": -94.93,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,6 @@
     }
   },
   "micron": [
-    {
-      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
-    },
     {
       "title": "(PR) Micron Unveils U.S.-Based Research Labs to Shape the Future of Memory and AI",
       "link": "https://www.techpowerup.com/351760/micron-unveils-u-s-based-research-labs-to-shape-the-future-of-memory-and-ai",
