@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T01:26:16.302564Z",
+  "updated": "2026-08-23T06:42:58.579101Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 966.78,
-    "upside": -94.93,
+    "upside": 5720987364.45,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -80,7 +80,7 @@
       "link": "https://www.techpowerup.com/351760/micron-unveils-u-s-based-research-labs-to-shape-the-future-of-memory-and-ai",
       "src": "TechPowerUp",
       "date": "2026-08-20T14:36:18",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "(PR) 美光科技在美国设立研究实验室，塑造内存和人工智能的未来"
     }
   ],
   "hbm": []
