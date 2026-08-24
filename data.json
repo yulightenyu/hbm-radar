@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:01:34.881527Z",
+  "updated": "2026-08-24T12:53:31.669522Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 133.29,
-      "change": -3.75,
+      "price": 133.66,
+      "change": -3.48,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 103.32558
+      "pe": 103.61241
     }
   ],
   "dcf": {
@@ -73,7 +73,7 @@
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
       "src": "Blocks and Files: The ho",
       "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "hbm": [
@@ -82,7 +82,7 @@
       "link": "https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
       "src": "TechPowerUp",
       "date": "2026-08-24T05:30:00",
-      "zh": "三星确认 HBM4E 内存每引脚运行速度为 16 Gbps"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
 }
