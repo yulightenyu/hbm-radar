@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-24T12:53:31.669522Z",
+  "updated": "2026-08-24T18:42:13.173770Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 966.78,
-      "change": -0.77,
+      "price": 918.25,
+      "change": -5.02,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.28,
-      "pe": 21.833334
+      "pe": 20.737392
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 257000.0,
-      "change": -8.7,
+      "price": 281500.0,
+      "change": 3.87,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1671000.0,
-      "change": -3.41,
+      "price": 1730000.0,
+      "change": 2.31,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 133.66,
-      "change": -3.48,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
-    "price": 966.78,
-    "upside": -94.93,
+    "fair_value": 55309362608.83,
+    "price": 917.66,
+    "upside": 6027217236.36,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "(PR) Micron Opens State-of-the-Art Training Center in Boise, U.S.",
+      "link": "https://www.techpowerup.com/351899/micron-opens-state-of-the-art-training-center-in-boise-u-s",
+      "src": "TechPowerUp",
+      "date": "2026-08-24T18:12:39",
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
     {
       "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
