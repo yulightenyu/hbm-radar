@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:51:07.712478Z",
+  "updated": "2026-08-25T12:50:41.799108Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 134.59,
-      "change": 0.7,
+      "price": 134.1,
+      "change": 0.33,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 105.14844
+      "pe": 104.76563
     }
   ],
   "dcf": {
@@ -84,6 +84,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
+      "link": "https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging",
+      "src": "TechPowerUp",
+      "date": "2026-08-25T08:23:41",
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
     {
       "title": "Samsung Confirms HBM4E Memory Running at 16 Gbps Per Pin",
       "link": "https://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
