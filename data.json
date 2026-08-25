@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T01:20:53.758099Z",
+  "updated": "2026-08-25T06:51:07.712478Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": -5.83,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.28,
-      "pe": 20.560751
+      "eps": 41.7,
+      "pe": 21.832853
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 249000.0,
-      "change": -3.11,
+      "price": 257000.0,
+      "change": 0.0,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1581000.0,
-      "change": -5.39,
+      "price": 1678000.0,
+      "change": 0.42,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 133.66,
-      "change": -3.48,
+      "price": 134.59,
+      "change": 0.7,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.28,
-      "pe": 104.42188
+      "pe": 105.14844
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 910.43,
-    "upside": 6075081192.23,
+    "upside": -94.62,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/351899/micron-opens-state-of-the-art-training-center-in-boise-u-s",
       "src": "TechPowerUp",
       "date": "2026-08-24T18:12:39",
-      "zh": "(PR) 美光在美国博伊西开设最先进的培训中心"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
