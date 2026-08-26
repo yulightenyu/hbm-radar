@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:52:25.746231Z",
+  "updated": "2026-08-26T12:55:10.675418Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 132.32,
-      "change": -1.33,
+      "price": 132.07,
+      "change": -1.51,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 102.573654
+      "pe": 102.37985
     }
   ],
   "dcf": {
@@ -58,9 +58,9 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 55309362608.83,
+    "fair_value": 48.97,
     "price": 932.97,
-    "upside": 5928310843.42,
+    "upside": -94.75,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -76,13 +76,5 @@
       "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "hbm": [
-    {
-      "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
-      "link": "https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging",
-      "src": "TechPowerUp",
-      "date": "2026-08-25T08:23:41",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    }
-  ]
+  "hbm": []
 }
