@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:24:19.981226Z",
+  "updated": "2026-08-26T06:52:25.746231Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 2.48,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.25,
-      "pe": 21.084066
+      "eps": 45.34,
+      "pe": 20.577194
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 257500.0,
-      "change": 0.19,
+      "price": 261500.0,
+      "change": 1.75,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1687000.0,
-      "change": 0.54,
+      "price": 1688000.0,
+      "change": 0.6,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 134.1,
-      "change": 0.33,
+      "price": 132.32,
+      "change": -1.33,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 103.9535
+      "pe": 102.573654
     }
   ],
   "dcf": {
@@ -58,23 +58,31 @@
     ],
     "tv_b": 43.25,
     "ev_b": 35.66,
-    "fair_value": 48.97,
+    "fair_value": 55309362608.83,
     "price": 932.97,
-    "upside": -94.75,
+    "upside": 5928310843.42,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-08-20T16:57:00",
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    }
+  ],
   "hbm": [
     {
       "title": "SK Hynix Next-Gen HBM Memory to Use Intel EMIB-T Packaging",
       "link": "https://www.techpowerup.com/351913/sk-hynix-next-gen-hbm-memory-to-use-intel-emib-t-packaging",
       "src": "TechPowerUp",
       "date": "2026-08-25T08:23:41",
-      "zh": "SK Hynix 下一代 HBM 内存将使用英特尔 EMIB-T 封装"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
 }
