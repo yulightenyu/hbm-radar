@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T20:35:34.090226Z",
+  "updated": "2026-08-30T04:17:37.006639Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -67,22 +67,6 @@
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
-    }
-  ],
-  "hbm": [
-    {
-      "title": "(PR) SK hynix Breaks Ground on U.S. HBM Fab in Indiana, Targets Mass Production by Q2 2029",
-      "link": "https://www.techpowerup.com/352047/sk-hynix-breaks-ground-on-u-s-hbm-fab-in-indiana-targets-mass-production-by-q2-2029",
-      "src": "TechPowerUp",
-      "date": "2026-08-27T16:58:19",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    }
-  ]
+  "micron": [],
+  "hbm": []
 }
