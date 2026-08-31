@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-31T13:00:22.858921Z",
+  "updated": "2026-08-31T22:36:45.418138Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 932.86,
-      "change": -0.27,
+      "price": 958.73,
+      "change": 2.77,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.22,
-      "pe": 21.095882
+      "pe": 21.680912
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 260000.0,
-      "change": 1.17,
+      "price": 257000.0,
+      "change": -3.38,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1674000.0,
-      "change": 1.27,
+      "price": 1653000.0,
+      "change": -4.43,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 139.95,
-      "change": 3.13,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 932.86,
-    "upside": -94.75,
+    "price": 958.73,
+    "upside": -94.89,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -76,5 +76,20 @@
       "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "CXMT Starts Risk Production of HBM3E Memory",
+      "link": "https://www.techpowerup.com/352175/cxmt-starts-risk-production-of-hbm3e-memory",
+      "src": "TechPowerUp",
+      "date": "2026-08-31T14:30:54",
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    },
+    {
+      "title": "SK hynix Eyes Intel Foundry for HBM4E Base Die Manufacturing",
+      "link": "https://www.techpowerup.com/352169/sk-hynix-eyes-intel-foundry-for-hbm4e-base-die-manufacturing",
+      "src": "TechPowerUp",
+      "date": "2026-08-31T13:16:04",
+      "zh": "SK hynix 着眼于 Intel Foundry 进行 HBM4E 基础芯片制造"
+    }
+  ]
 }
