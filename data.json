@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T20:43:24.731584Z",
+  "updated": "2026-08-31T04:22:52.816405Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 257000.0,
-      "change": -3.38,
+      "price": 251500.0,
+      "change": -2.14,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1653000.0,
-      "change": -4.43,
+      "price": 1614000.0,
+      "change": -2.36,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 135.7,
-      "change": -3.4,
+      "price": 136.3,
+      "change": 0.44,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 1.29,
-      "pe": 105.1938
+      "pe": 105.65892
     }
   ],
   "dcf": {
@@ -73,7 +73,7 @@
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
       "src": "Blocks and Files: The ho",
       "date": "2026-08-20T16:57:00",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
   ],
   "hbm": []
