@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-01T16:14:42.723781Z",
+  "updated": "2026-09-01T20:43:30.220972Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 953.16,
-      "change": -0.58,
+      "price": 933.44,
+      "change": -2.64,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.2,
-      "pe": 21.56462
+      "pe": 21.118551
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 260000.0,
+      "change": 1.17,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1674000.0,
+      "change": 1.27,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 953.28,
-    "upside": -94.86,
+    "price": 933.44,
+    "upside": -94.75,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -78,25 +78,18 @@
   ],
   "hbm": [
     {
+      "title": "Samsung New Memory Roadmap: HBM5 Aims for 2x Performance, zHBM for 8x",
+      "link": "https://www.techpowerup.com/352233/samsung-new-memory-roadmap-hbm5-aims-for-2x-performance-zhbm-for-8x",
+      "src": "TechPowerUp",
+      "date": "2026-09-01T19:09:24",
+      "zh": "三星新内存路线图：HBM5 目标是 2 倍性能，zHBM 目标是 8 倍"
+    },
+    {
       "title": "NVIDIA's \"Rubin CPX\" GPU Reborn with HBM4 Memory, No More GDDR7",
       "link": "https://www.techpowerup.com/352213/nvidias-rubin-cpx-gpu-reborn-with-hbm4-memory-no-more-gddr7",
       "src": "TechPowerUp",
       "date": "2026-09-01T12:38:20",
       "zh": "NVIDIA 的“Rubin CPX”GPU 重生，配备 HBM4 显存，不再使用 GDDR7"
-    },
-    {
-      "title": "CXMT Starts Risk Production of HBM3E Memory",
-      "link": "https://www.techpowerup.com/352175/cxmt-starts-risk-production-of-hbm3e-memory",
-      "src": "TechPowerUp",
-      "date": "2026-08-31T14:30:54",
-      "zh": "长鑫存储开始HBM3E内存风险生产"
-    },
-    {
-      "title": "SK hynix Eyes Intel Foundry for HBM4E Base Die Manufacturing",
-      "link": "https://www.techpowerup.com/352169/sk-hynix-eyes-intel-foundry-for-hbm4e-base-die-manufacturing",
-      "src": "TechPowerUp",
-      "date": "2026-08-31T13:16:04",
-      "zh": "SK hynix 着眼于 Intel Foundry 进行 HBM4E 基础芯片制造"
     }
   ]
 }
