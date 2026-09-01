@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-01T11:17:24.451358Z",
+  "updated": "2026-09-01T16:14:42.723781Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 958.73,
-      "change": 2.77,
+      "price": 953.16,
+      "change": -0.58,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.2,
-      "pe": 21.690723
+      "pe": 21.56462
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 261000.0,
-      "change": 0.38,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1693000.0,
-      "change": 1.14,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 134.79,
-      "change": -3.69,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 958.73,
-    "upside": -94.89,
+    "price": 953.28,
+    "upside": -94.86,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -77,6 +77,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "NVIDIA's \"Rubin CPX\" GPU Reborn with HBM4 Memory, No More GDDR7",
+      "link": "https://www.techpowerup.com/352213/nvidias-rubin-cpx-gpu-reborn-with-hbm4-memory-no-more-gddr7",
+      "src": "TechPowerUp",
+      "date": "2026-09-01T12:38:20",
+      "zh": "NVIDIA 的“Rubin CPX”GPU 重生，配备 HBM4 显存，不再使用 GDDR7"
+    },
     {
       "title": "CXMT Starts Risk Production of HBM3E Memory",
       "link": "https://www.techpowerup.com/352175/cxmt-starts-risk-production-of-hbm3e-memory",
