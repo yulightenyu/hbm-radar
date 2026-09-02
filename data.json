@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-02T16:10:20.713083Z",
+  "updated": "2026-09-02T20:41:45.151699Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 947.2,
-      "change": 1.47,
+      "price": 956.08,
+      "change": 2.43,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.25,
-      "pe": 21.399323
+      "pe": 21.606329
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 261000.0,
+      "change": 0.38,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1693000.0,
+      "change": 1.14,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 947.0,
-    "upside": -94.83,
+    "price": 956.08,
+    "upside": -94.88,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,14 +73,14 @@
       "link": "https://www.techpowerup.com/352251/micron-explores-near-gpu-nand-flash-to-run-bigger-llms",
       "src": "TechPowerUp",
       "date": "2026-09-02T11:19:49",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "美光探索近 GPU NAND 闪存以运行更大的 LLM"
     },
     {
       "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
       "src": "Blocks and Files: The ho",
       "date": "2026-08-20T16:57:00",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
   ],
   "hbm": [
@@ -89,14 +89,14 @@
       "link": "https://www.techpowerup.com/352251/micron-explores-near-gpu-nand-flash-to-run-bigger-llms",
       "src": "TechPowerUp",
       "date": "2026-09-02T11:19:49",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "美光探索近 GPU NAND 闪存以运行更大的 LLM"
     },
     {
       "title": "Samsung New Memory Roadmap: HBM5 Aims for 2x Performance, zHBM for 8x",
       "link": "https://www.techpowerup.com/352233/samsung-new-memory-roadmap-hbm5-aims-for-2x-performance-zhbm-for-8x",
       "src": "TechPowerUp",
       "date": "2026-09-01T19:09:24",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "三星新内存路线图：HBM5 目标是 2 倍性能，zHBM 目标是 8 倍"
     }
   ]
 }
