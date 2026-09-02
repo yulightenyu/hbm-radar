@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T03:29:09.430764Z",
+  "updated": "2026-09-02T10:51:55.295201Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": -2.64,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.2,
-      "pe": 21.118551
+      "eps": 44.25,
+      "pe": 21.094688
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 252000.0,
-      "change": -3.45,
+      "price": 250500.0,
+      "change": -4.02,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1636000.0,
-      "change": -3.37,
+      "price": 1613000.0,
+      "change": -4.73,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 131.39,
-      "change": -2.52,
+      "price": 132.37,
+      "change": -1.8,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 46.427563
+      "pe": 46.77385
     }
   ],
   "dcf": {
@@ -67,22 +67,14 @@
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "Samsung New Memory Roadmap: HBM5 Aims for 2x Performance, zHBM for 8x",
       "link": "https://www.techpowerup.com/352233/samsung-new-memory-roadmap-hbm5-aims-for-2x-performance-zhbm-for-8x",
       "src": "TechPowerUp",
       "date": "2026-09-01T19:09:24",
-      "zh": "三星新内存路线图：HBM5 目标是 2 倍性能，zHBM 目标是 8 倍"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "NVIDIA's \"Rubin CPX\" GPU Reborn with HBM4 Memory, No More GDDR7",
