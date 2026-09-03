@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T03:30:28.420229Z",
+  "updated": "2026-09-03T10:51:40.632981Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 253500.0,
-      "change": 1.2,
+      "price": 250000.0,
+      "change": -0.2,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1630000.0,
-      "change": 1.05,
+      "price": 1596000.0,
+      "change": -1.05,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 131.27,
-      "change": -0.83,
+      "price": 131.99,
+      "change": -0.29,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 46.385162
+      "pe": 46.63958
     }
   ],
   "dcf": {
@@ -103,7 +103,7 @@
       "link": "https://www.techpowerup.com/352233/samsung-new-memory-roadmap-hbm5-aims-for-2x-performance-zhbm-for-8x",
       "src": "TechPowerUp",
       "date": "2026-09-01T19:09:24",
-      "zh": "三星新内存路线图：HBM5 目标是 2 倍性能，zHBM 目标是 8 倍"
+      "zh": "三星新内存路线图：HBM5 旨在实现 2 倍性能，zHBM 旨在实现 8 倍性能"
     }
   ]
 }
