@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:41:45.151699Z",
+  "updated": "2026-09-03T03:30:28.420229Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 2.43,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.25,
-      "pe": 21.606329
+      "eps": 45.32,
+      "pe": 21.096205
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 261000.0,
-      "change": 0.38,
+      "price": 253500.0,
+      "change": 1.2,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1693000.0,
-      "change": 1.14,
+      "price": 1630000.0,
+      "change": 1.05,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 131.27,
+      "change": -0.83,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 46.77385
+      "pe": 46.385162
     }
   ],
   "dcf": {
@@ -84,6 +84,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "TSMC Delays Hybrid Bonding Investment for HBM, Opts for Microbumps",
+      "link": "https://www.techpowerup.com/352267/tsmc-delays-hybrid-bonding-investment-for-hbm-opts-for-microbumps",
+      "src": "TechPowerUp",
+      "date": "2026-09-02T15:43:01",
+      "zh": "台积电推迟对 HBM 的混合键合投资，选择微凸块"
+    },
     {
       "title": "Micron Explores Near-GPU NAND Flash to Run Bigger LLMs",
       "link": "https://www.techpowerup.com/352251/micron-explores-near-gpu-nand-flash-to-run-bigger-llms",
