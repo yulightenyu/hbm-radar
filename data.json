@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-03T20:40:16.622317Z",
+  "updated": "2026-09-04T03:28:57.346851Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 958.16,
-      "change": 0.22,
+      "price": NaN,
+      "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.27,
-      "pe": 21.64355
+      "eps": 44.36,
+      "pe": 21.599638
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 250000.0,
-      "change": -0.2,
+      "price": 254750.0,
+      "change": 1.9,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1596000.0,
-      "change": -1.05,
+      "price": 1643000.0,
+      "change": 2.94,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 131.99,
-      "change": -0.29,
+      "price": 129.53,
+      "change": -1.86,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.82,
-      "pe": 46.804966
+      "pe": 45.950356
     }
   ],
   "dcf": {
@@ -67,14 +67,14 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
-  "hbm": [
+  "micron": [
     {
-      "title": "TSMC Delays Hybrid Bonding Investment for HBM, Opts for Microbumps",
-      "link": "https://www.techpowerup.com/352267/tsmc-delays-hybrid-bonding-investment-for-hbm-opts-for-microbumps",
-      "src": "TechPowerUp",
-      "date": "2026-09-02T15:43:01",
-      "zh": "台积电推迟对 HBM 的混合键合投资，选择微凸块"
+      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-08-20T16:57:00",
+      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
-  ]
+  ],
+  "hbm": []
 }
