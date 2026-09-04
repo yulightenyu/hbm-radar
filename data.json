@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-04T03:28:57.346851Z",
+  "updated": "2026-09-04T10:50:26.415731Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": NaN,
-      "change": NaN,
+      "price": 958.16,
+      "change": 0.22,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.36,
-      "pe": 21.599638
+      "eps": 44.27,
+      "pe": 21.64355
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 254750.0,
-      "change": 1.9,
+      "price": 255500.0,
+      "change": 2.2,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1643000.0,
-      "change": 2.94,
+      "price": 1647000.0,
+      "change": 3.2,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 129.53,
-      "change": -1.86,
+      "price": 127.16,
+      "change": -3.66,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.82,
-      "pe": 45.950356
+      "pe": 45.0922
     }
   ],
   "dcf": {
