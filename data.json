@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:06:41.556747Z",
+  "updated": "2026-09-06T20:07:40.864493Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -73,8 +73,16 @@
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
       "src": "Blocks and Files: The ho",
       "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "Huawei Prepares 160,000 Ascend 950DT Accelerators for DeepSeek Data Centar",
+      "link": "https://www.techpowerup.com/352416/huawei-prepares-160-000-ascend-950dt-accelerators-for-deepseek-data-centar",
+      "src": "TechPowerUp",
+      "date": "2026-09-06T18:53:13",
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+    }
+  ]
 }
