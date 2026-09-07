@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T20:07:40.864493Z",
+  "updated": "2026-09-07T03:30:36.130119Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 255500.0,
-      "change": 2.2,
+      "price": 266000.0,
+      "change": 4.11,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1647000.0,
-      "change": 3.2,
+      "price": 1748000.0,
+      "change": 6.13,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 127.16,
-      "change": -3.66,
+      "price": 132.25,
+      "change": 4.0,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.84,
-      "pe": 44.77465
+      "pe": 46.566902
     }
   ],
   "dcf": {
@@ -78,8 +78,8 @@
   ],
   "hbm": [
     {
-      "title": "Huawei Prepares 160,000 Ascend 950DT Accelerators for DeepSeek Data Centar",
-      "link": "https://www.techpowerup.com/352416/huawei-prepares-160-000-ascend-950dt-accelerators-for-deepseek-data-centar",
+      "title": "Huawei Prepares 160,000 Ascend 950DT Accelerators for DeepSeek Data Center",
+      "link": "https://www.techpowerup.com/352416/huawei-prepares-160-000-ascend-950dt-accelerators-for-deepseek-data-center",
       "src": "TechPowerUp",
       "date": "2026-09-06T18:53:13",
       "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
