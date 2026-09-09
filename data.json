@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:51:25.396726Z",
+  "updated": "2026-09-09T03:40:43.376919Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 269500.0,
-      "change": -0.19,
+      "price": 272250.0,
+      "change": 1.02,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1793000.0,
-      "change": 0.56,
+      "price": 1863000.0,
+      "change": 3.9,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 133.79,
-      "change": -0.01,
+      "price": 132.46,
+      "change": -0.99,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.84,
-      "pe": 47.109154
+      "pe": 46.64085
     }
   ],
   "dcf": {
@@ -76,13 +76,5 @@
       "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
-  "hbm": [
-    {
-      "title": "(PR) DRAM Industry Revenue Rises 59.5% QoQ in 2Q26 as Supply Expansion Continues to Lag Demand Growth",
-      "link": "https://www.techpowerup.com/352433/dram-industry-revenue-rises-59-5-qoq-in-2q26-as-supply-expansion-continues-to-lag-demand-growth",
-      "src": "TechPowerUp",
-      "date": "2026-09-07T11:05:54",
-      "zh": "(PR) 供应扩张继续落后于需求增长，2026 年第二季度 DRAM 行业收入环比增长 59.5%"
-    }
-  ]
+  "hbm": []
 }
