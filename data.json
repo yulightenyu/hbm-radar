@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-10T16:00:14.318617Z",
+  "updated": "2026-09-10T20:33:04.060483Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 983.75,
-      "change": -4.28,
+      "price": 977.41,
+      "change": -4.9,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.19,
-      "pe": 22.261826
+      "pe": 22.118353
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 269000.0,
+      "change": -0.19,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1853000.0,
+      "change": -0.16,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 132.45,
+      "change": 0.36,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.82,
-      "pe": 46.968086
+      "eps": 2.83,
+      "pe": 46.80212
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 983.71,
-    "upside": -95.02,
+    "price": 977.41,
+    "upside": -94.99,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,7 +73,7 @@
       "link": "https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25",
       "src": "TechPowerUp",
       "date": "2026-09-09T14:59:31",
-      "zh": "据称长鑫存储与HBM3E举步维艰，收益率仅25%"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ],
   "hbm": [
@@ -82,14 +82,14 @@
       "link": "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram",
       "src": "TechPowerUp",
       "date": "2026-09-10T09:07:42",
-      "zh": "Kepler 计算出现，使用 FeRAM 构建 HBM 替代方案"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     },
     {
       "title": "CXMT Reportedly Struggles With HBM3E, Yields Are Only 25%",
       "link": "https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25",
       "src": "TechPowerUp",
       "date": "2026-09-09T14:59:31",
-      "zh": "据称长鑫存储与HBM3E举步维艰，收益率仅25%"
+      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
 }
