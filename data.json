@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T03:38:24.209225Z",
+  "updated": "2026-09-10T10:51:55.961609Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 2.75,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.21,
-      "pe": 23.247456
+      "eps": 45.43,
+      "pe": 22.623158
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 266500.0,
-      "change": -1.11,
+      "price": 269000.0,
+      "change": -0.19,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1848000.0,
-      "change": -0.43,
+      "price": 1853000.0,
+      "change": -0.16,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 132.58,
-      "change": 0.45,
+      "price": 132.45,
+      "change": 0.36,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.82,
-      "pe": 47.014187
+      "pe": 46.968086
     }
   ],
   "dcf": {
@@ -80,10 +80,17 @@
       "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
       "src": "Blocks and Files: The ho",
       "date": "2026-08-20T16:57:00",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
+      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
   ],
   "hbm": [
+    {
+      "title": "Kepler Computing Emerges to Build HBM Alternative Using FeRAM",
+      "link": "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram",
+      "src": "TechPowerUp",
+      "date": "2026-09-10T09:07:42",
+      "zh": "Kepler 计算出现，使用 FeRAM 构建 HBM 替代方案"
+    },
     {
       "title": "CXMT Reportedly Struggles With HBM3E, Yields Are Only 25%",
       "link": "https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25",
