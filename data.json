@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-10T10:51:55.961609Z",
+  "updated": "2026-09-10T16:00:14.318617Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1027.77,
-      "change": 2.75,
+      "price": 983.75,
+      "change": -4.28,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 45.43,
-      "pe": 22.623158
+      "eps": 44.19,
+      "pe": 22.261826
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 269000.0,
-      "change": -0.19,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1853000.0,
-      "change": -0.16,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 132.45,
-      "change": 0.36,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.82,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1027.77,
-    "upside": -95.24,
+    "price": 983.71,
+    "upside": -95.02,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -74,13 +74,6 @@
       "src": "TechPowerUp",
       "date": "2026-09-09T14:59:31",
       "zh": "据称长鑫存储与HBM3E举步维艰，收益率仅25%"
-    },
-    {
-      "title": "Micron rolls out big guns to support Boise memory lab launch as WD looks to Japan to for storage innovation lab",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/08/20/micron-rolls-out-big-guns-to-support-boise-memory-lab-launch-as-wd-looks-to-japan-to-for-storage-innovation-lab/5290522",
-      "src": "Blocks and Files: The ho",
-      "date": "2026-08-20T16:57:00",
-      "zh": "随着 WD 向日本寻求存储创新实验室，美光推出重磅炸弹支持博伊西内存实验室的启动"
     }
   ],
   "hbm": [
