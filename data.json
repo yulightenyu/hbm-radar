@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:33:04.060483Z",
+  "updated": "2026-09-11T03:36:41.932630Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": -4.9,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.19,
-      "pe": 22.118353
+      "eps": 42.03,
+      "pe": 23.255056
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 269000.0,
-      "change": -0.19,
+      "price": 257500.0,
+      "change": -4.28,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1853000.0,
-      "change": -0.16,
+      "price": 1780000.0,
+      "change": -3.94,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 132.45,
-      "change": 0.36,
+      "price": 125.81,
+      "change": -5.01,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 46.80212
+      "pe": 44.45583
     }
   ],
   "dcf": {
@@ -67,28 +67,13 @@
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "CXMT Reportedly Struggles With HBM3E, Yields Are Only 25%",
-      "link": "https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25",
-      "src": "TechPowerUp",
-      "date": "2026-09-09T14:59:31",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "Kepler Computing Emerges to Build HBM Alternative Using FeRAM",
       "link": "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram",
       "src": "TechPowerUp",
       "date": "2026-09-10T09:07:42",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    },
-    {
-      "title": "CXMT Reportedly Struggles With HBM3E, Yields Are Only 25%",
-      "link": "https://www.techpowerup.com/352511/cxmt-reportedly-struggles-with-hbm3e-yields-are-only-25",
-      "src": "TechPowerUp",
-      "date": "2026-09-09T14:59:31",
       "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
     }
   ]
