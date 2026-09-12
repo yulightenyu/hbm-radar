@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:38:36.342996Z",
+  "updated": "2026-09-12T03:40:51.110123Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,8 +9,8 @@
       "change": -0.22,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.28,
-      "pe": 22.024843
+      "eps": 44.18,
+      "pe": 22.074694
     },
     {
       "ticker": "005930.KS",
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "Kepler Computing Emerges to Build HBM Alternative Using FeRAM",
-      "link": "https://www.techpowerup.com/352548/kepler-computing-emerges-to-build-hbm-alternative-using-feram",
-      "src": "TechPowerUp",
-      "date": "2026-09-10T09:07:42",
-      "zh": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know."
-    }
-  ]
+  "hbm": []
 }
