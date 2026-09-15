@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-15T16:30:36.693876Z",
+  "updated": "2026-09-15T20:58:45.056826Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 923.29,
-      "change": -0.08,
+      "price": 927.6,
+      "change": 0.39,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.26,
-      "pe": 20.85653
+      "pe": 20.957975
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 248500.0,
+      "change": -0.2,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1690000.0,
+      "change": -0.41,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 127.58,
+      "change": 1.0,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.83,
-      "pe": 45.081272
+      "eps": 2.86,
+      "pe": 44.608395
     }
   ],
   "dcf": {
@@ -59,14 +59,22 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 922.93,
-    "upside": -94.69,
+    "price": 927.6,
+    "upside": -94.72,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "(PR) Micron Develops 512 GB DDR5 RDIMM Server Memory Reaching 9200 MT/s",
+      "link": "https://www.techpowerup.com/352730/micron-develops-512-gb-ddr5-rdimm-server-memory-reaching-9200-mt-s",
+      "src": "TechPowerUp",
+      "date": "2026-09-15T20:17:45",
+      "zh": ""
+    }
+  ],
   "hbm": []
 }
