@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-22T21:00:02.405133Z",
+  "updated": "2026-09-23T03:50:39.154006Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1096.16,
-      "change": 5.0,
+      "price": NaN,
+      "change": NaN,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.26,
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 276500.0,
-      "change": 0.91,
+      "price": 283000.0,
+      "change": 2.35,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1840000.0,
-      "change": -1.5,
+      "price": 1847000.0,
+      "change": 0.38,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 146.1,
-      "change": 0.0,
+      "price": 146.95,
+      "change": 0.58,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 51.625446
+      "pe": 51.925797
     }
   ],
   "dcf": {
@@ -67,7 +67,15 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "Micron's 2 GB GDDR7 Memory Chips Reportedly Reach End of Life",
+      "link": "https://www.techpowerup.com/352975/microns-2-gb-gddr7-memory-chips-reportedly-reach-end-of-life",
+      "src": "TechPowerUp",
+      "date": "2026-09-23T00:25:34",
+      "zh": ""
+    }
+  ],
   "hbm": [
     {
       "title": "AMD Adds GDDR7 Support in GPU Driver, Preparing for RDNA 5 Launch",
