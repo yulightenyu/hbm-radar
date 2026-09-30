@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-30T12:06:33.974766Z",
+  "updated": "2026-09-30T21:58:44.307041Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1065.08,
-      "change": 1.05,
+      "price": 1065.11,
+      "change": 0.0,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 44.2,
-      "pe": 24.09683
+      "pe": 24.097511
     },
     {
       "ticker": "005930.KS",
@@ -59,7 +59,7 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1065.08,
+    "price": 1065.11,
     "upside": -95.4,
     "assumptions": {
       "growth_5y": 0.12,
@@ -67,6 +67,14 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "(PR) Micron Reports Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
+      "link": "https://www.techpowerup.com/353278/micron-reports-record-fiscal-fourth-quarter-and-full-year-2026-results",
+      "src": "TechPowerUp",
+      "date": "2026-09-30T21:18:37",
+      "zh": ""
+    }
+  ],
   "hbm": []
 }
