@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:46:37.300513Z",
+  "updated": "2026-10-01T12:40:00.857236Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 0.0,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 44.2,
-      "pe": 24.097511
+      "eps": 74.34,
+      "pe": 14.32755
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 273000.0,
-      "change": 1.68,
+      "price": 276000.0,
+      "change": 2.79,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1811000.0,
-      "change": 1.97,
+      "price": 1833000.0,
+      "change": 3.21,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
+      "src": "TechPowerUp",
+      "date": "2026-10-01T12:26:52",
+      "zh": ""
+    },
     {
       "title": "(PR) Micron Reports Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
       "link": "https://www.techpowerup.com/353278/micron-reports-record-fiscal-fourth-quarter-and-full-year-2026-results",
