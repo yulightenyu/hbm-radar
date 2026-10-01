@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-01T12:40:00.857236Z",
+  "updated": "2026-10-01T22:26:47.733734Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1065.11,
-      "change": 0.0,
+      "price": 1097.39,
+      "change": 3.03,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 74.34,
-      "pe": 14.32755
+      "pe": 14.761771
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 48.97,
-    "price": 1065.11,
-    "upside": -95.4,
+    "price": 1097.39,
+    "upside": -95.54,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Memory gold rush bonanza makes billions for Micron",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-01T13:00:06",
+      "zh": ""
+    },
     {
       "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
       "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
@@ -83,5 +90,13 @@
       "zh": ""
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion",
+      "link": "https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion",
+      "src": "TechPowerUp",
+      "date": "2026-10-01T15:24:29",
+      "zh": ""
+    }
+  ]
 }
