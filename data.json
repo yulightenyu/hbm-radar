@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:16:21.447649Z",
+  "updated": "2026-10-03T15:53:58.777621Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,8 +9,8 @@
       "change": -2.05,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 72.77,
-      "pe": 14.77106
+      "eps": 74.38,
+      "pe": 14.451332
     },
     {
       "ticker": "005930.KS",
@@ -73,13 +73,6 @@
       "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
       "src": "Blocks and Files: The ho",
       "date": "2026-10-01T13:00:06",
-      "zh": ""
-    },
-    {
-      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-      "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-      "src": "TechPowerUp",
-      "date": "2026-10-01T12:26:52",
       "zh": ""
     }
   ],
