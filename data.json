@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:40:34.244071Z",
+  "updated": "2026-10-04T20:59:51.031840Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -76,13 +76,5 @@
       "zh": ""
     }
   ],
-  "hbm": [
-    {
-      "title": "NVIDIA Could Account for 37% of 2027 HBM Capacity, Worth $279 Billion",
-      "link": "https://www.techpowerup.com/353306/nvidia-could-account-for-37-of-2027-hbm-capacity-worth-usd-279-billion",
-      "src": "TechPowerUp",
-      "date": "2026-10-01T15:24:29",
-      "zh": ""
-    }
-  ]
+  "hbm": []
 }
