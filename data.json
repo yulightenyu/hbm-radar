@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:54:49.711595Z",
+  "updated": "2026-10-07T12:51:50.398359Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": -1.73,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
-      "eps": 73.04,
-      "pe": 14.314897
+      "eps": 74.33,
+      "pe": 14.066461
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 272500.0,
-      "change": 0.18,
+      "price": 268500.0,
+      "change": -1.29,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1747000.0,
-      "change": -1.47,
+      "price": 1723000.0,
+      "change": -2.82,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -76,5 +76,13 @@
       "zh": ""
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
+      "link": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
+      "src": "TechPowerUp",
+      "date": "2026-10-07T12:31:02",
+      "zh": ""
+    }
+  ]
 }
