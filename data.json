@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-08T13:00:22.311591Z",
+  "updated": "2026-10-08T23:03:24.711622Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 1088.0,
-      "change": 4.06,
+      "price": 1035.84,
+      "change": -4.79,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 74.33,
-      "pe": 14.637427
+      "pe": 13.935692
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": -7.29,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.83,
-      "pe": 42.310955
+      "eps": 2.62,
+      "pe": 45.70229
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 65.45,
-    "price": 1088.0,
-    "upside": -93.98,
+    "price": 1035.84,
+    "upside": -93.68,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Micron and Netlist settle memory patent dispute",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-08T14:04:22",
+      "zh": ""
+    },
     {
       "title": "Memory gold rush bonanza makes billions for Micron",
       "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
@@ -78,17 +85,10 @@
   ],
   "hbm": [
     {
-      "title": "Samsung HBM4E Passes Testing for NVIDIA's \"Rubin Ultra\" GPU",
-      "link": "https://www.techpowerup.com/353467/samsung-hbm4e-passes-testing-for-nvidias-rubin-ultra-gpu",
+      "title": "AMD CEO Visits Samsung for HBM, Samsung Wants Foundry Orders in Return",
+      "link": "https://www.techpowerup.com/353518/amd-ceo-visits-samsung-for-hbm-samsung-wants-foundry-orders-in-return",
       "src": "TechPowerUp",
-      "date": "2026-10-07T16:28:32",
-      "zh": ""
-    },
-    {
-      "title": "SK hynix Reportedly Faces Difficulties in HBM Hybrid Bonding, Trailing Samsung",
-      "link": "https://www.techpowerup.com/353458/sk-hynix-reportedly-faces-difficulties-in-hbm-hybrid-bonding-trailing-samsung",
-      "src": "TechPowerUp",
-      "date": "2026-10-07T12:31:02",
+      "date": "2026-10-08T16:59:43",
       "zh": ""
     }
   ]
