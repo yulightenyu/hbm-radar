@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:40:34.581354Z",
+  "updated": "2026-10-11T12:18:32.200995Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -67,6 +67,21 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "Micron and Netlist settle memory patent dispute",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-08T14:04:22",
+      "zh": ""
+    },
+    {
+      "title": "Memory gold rush bonanza makes billions for Micron",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-01T13:00:06",
+      "zh": ""
+    }
+  ],
   "hbm": []
 }
