@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-14T21:21:59.621588Z",
+  "updated": "2026-10-15T03:42:29.678090Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
       "price": 914.13,
-      "change": -4.1,
+      "change": -4.08,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 74.33,
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 232000.0,
-      "change": 0.0,
+      "price": 209500.0,
+      "change": -9.7,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1419000.0,
-      "change": -1.66,
+      "price": 1262000.0,
+      "change": -11.06,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 106.95,
-      "change": -2.51,
+      "price": 101.2,
+      "change": -5.38,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
-      "pe": 37.79152
+      "pe": 35.759716
     }
   ],
   "dcf": {
@@ -67,6 +67,21 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
+  "micron": [
+    {
+      "title": "Micron and Netlist settle memory patent dispute",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-08T14:04:22",
+      "zh": ""
+    },
+    {
+      "title": "Memory gold rush bonanza makes billions for Micron",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
+      "src": "Blocks and Files: The ho",
+      "date": "2026-10-01T13:00:06",
+      "zh": ""
+    }
+  ],
   "hbm": []
 }
