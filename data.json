@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-21T16:48:37.232602Z",
+  "updated": "2026-10-21T21:22:54.458643Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 913.66,
+      "price": 913.67,
       "change": 1.96,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 74.33,
-      "pe": 12.291874
+      "pe": 12.292075
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 223500.0,
+      "change": 5.67,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1294000.0,
+      "change": 5.81,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 104.48,
+      "change": 0.9,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.83,
-      "pe": 36.91873
+      "eps": 2.86,
+      "pe": 36.53147
     }
   ],
   "dcf": {
@@ -59,7 +59,7 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 65.33,
-    "price": 913.65,
+    "price": 913.67,
     "upside": -92.85,
     "assumptions": {
       "growth_5y": 0.12,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "(PR) NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "link": "https://www.techpowerup.com/353982/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "src": "TechPowerUp",
+      "date": "2026-10-21T17:49:21",
+      "zh": ""
+    },
     {
       "title": "Micron and Netlist settle memory patent dispute",
       "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
