@@ -1,23 +1,23 @@
 {
-  "updated": "2026-10-21T11:21:33.578130Z",
+  "updated": "2026-10-21T16:48:37.232602Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 896.07,
-      "change": -0.98,
+      "price": 913.66,
+      "change": 1.96,
       "revenue": 37378000000.0,
       "gross_margin": 39.8,
       "eps": 74.33,
-      "pe": 12.055294
+      "pe": 12.291874
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 223500.0,
-      "change": 5.67,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1294000.0,
-      "change": 5.81,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,8 +38,8 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 104.48,
-      "change": 0.9,
+      "price": NaN,
+      "change": NaN,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 2.83,
@@ -59,8 +59,8 @@
     "tv_b": 43.25,
     "ev_b": 35.66,
     "fair_value": 65.33,
-    "price": 896.07,
-    "upside": -92.71,
+    "price": 913.65,
+    "upside": -92.85,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -73,13 +73,6 @@
       "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
       "src": "www.blocksandfiles.com -",
       "date": "2026-10-08T14:04:22",
-      "zh": ""
-    },
-    {
-      "title": "Memory gold rush bonanza makes billions for Micron",
-      "link": "https://www.blocksandfiles.com/flash/2026/10/01/memory-gold-rush-bonanza-makes-billions-for-micron/5300445",
-      "src": "www.blocksandfiles.com -",
-      "date": "2026-10-01T13:00:06",
       "zh": ""
     }
   ],
