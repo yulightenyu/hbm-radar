@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T15:33:55.626715Z",
+  "updated": "2026-10-24T20:24:47.749054Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -68,13 +68,6 @@
     }
   },
   "micron": [
-    {
-      "title": "Micron Walks Away From 4F² DRAM After Two Decades of Research, Bets on 3D DRAM Instead",
-      "link": "https://www.techpowerup.com/354042/micron-walks-away-from-4f-dram-after-two-decades-of-research-bets-on-3d-dram-instead",
-      "src": "TechPowerUp",
-      "date": "2026-10-22T19:57:02",
-      "zh": ""
-    },
     {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
