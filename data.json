@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T20:24:47.749054Z",
+  "updated": "2026-10-25T03:43:16.544129Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -7,8 +7,8 @@
       "currency": "USD",
       "price": 877.55,
       "change": 2.46,
-      "revenue": 37378000000.0,
-      "gross_margin": 39.8,
+      "revenue": 133188000000.0,
+      "gross_margin": 80.7,
       "eps": 74.33,
       "pe": 11.806134
     },
@@ -48,19 +48,19 @@
   ],
   "dcf": {
     "ok": true,
-    "fcf0_b": 1.67,
+    "fcf0_b": 58.96,
     "flows_b": [
-      1.87,
-      2.09,
-      2.34,
-      2.62,
-      2.94
+      66.04,
+      73.96,
+      82.84,
+      92.78,
+      103.91
     ],
-    "tv_b": 43.25,
-    "ev_b": 35.66,
-    "fair_value": 65.33,
+    "tv_b": 1529.0,
+    "ev_b": 1260.68,
+    "fair_value": 1148.06,
     "price": 877.55,
-    "upside": -92.56,
+    "upside": 30.83,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
