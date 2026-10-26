@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-26T12:27:30.954997Z",
+  "updated": "2026-10-26T22:24:25.803020Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 877.55,
-      "change": 2.46,
+      "price": 903.7,
+      "change": 2.98,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 11.806134
+      "pe": 12.157944
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 877.55,
-    "upside": 30.83,
+    "price": 903.7,
+    "upside": 27.04,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -84,6 +84,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "Nvidia sidesteps JEDEC HBM standard",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
+      "src": "www.blocksandfiles.com -",
+      "date": "2026-10-26T15:06:32",
+      "zh": ""
+    },
     {
       "title": "NVIDIA Cuts HBM4 Speed and NVLink Bandwidth Targets for \"Vera Rubin\"",
       "link": "https://www.techpowerup.com/354133/nvidia-cuts-hbm4-speed-and-nvlink-bandwidth-targets-for-vera-rubin",
