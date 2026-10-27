@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T04:09:40.780521Z",
+  "updated": "2026-10-27T11:46:06.969058Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 2.98,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
-      "eps": 76.55,
-      "pe": 11.805356
+      "eps": 74.33,
+      "pe": 12.157944
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 222500.0,
-      "change": 4.46,
+      "price": 222000.0,
+      "change": 4.23,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1355000.0,
-      "change": 6.27,
+      "price": 1341000.0,
+      "change": 5.18,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 98.98,
-      "change": -0.17,
+      "price": 94.6,
+      "change": -4.59,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.66,
-      "pe": 37.210526
+      "eps": 2.83,
+      "pe": 33.427563
     }
   ],
   "dcf": {
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "Micron Plans 400-Layer 3D NAND with Wafer-to-Wafer Bonding in 2027",
+      "link": "https://www.techpowerup.com/354167/micron-plans-400-layer-3d-nand-with-wafer-to-wafer-bonding-in-2027",
+      "src": "TechPowerUp",
+      "date": "2026-10-27T08:35:36",
+      "zh": ""
+    },
     {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
