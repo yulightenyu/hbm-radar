@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T04:38:05.543146Z",
+  "updated": "2026-10-28T12:19:56.310813Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -9,15 +9,15 @@
       "change": 2.77,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
-      "eps": 76.39,
-      "pe": 12.158136
+      "eps": 74.33,
+      "pe": 12.49509
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 241500.0,
-      "change": 8.78,
+      "price": 242000.0,
+      "change": 9.01,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1484000.0,
-      "change": 10.66,
+      "price": 1487000.0,
+      "change": 10.89,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 109.52,
-      "change": 15.77,
+      "price": 111.98,
+      "change": 18.37,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.7,
-      "pe": 40.56296
+      "eps": 2.83,
+      "pe": 39.56891
     }
   ],
   "dcf": {
@@ -74,7 +74,29 @@
       "src": "TechPowerUp",
       "date": "2026-10-27T08:35:36",
       "zh": ""
+    },
+    {
+      "title": "Micron skipping planned NAND generation",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
+      "src": "www.blocksandfiles.com -",
+      "date": "2026-10-22T14:48:53",
+      "zh": ""
+    },
+    {
+      "title": "Micron and Netlist settle memory patent dispute",
+      "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
+      "src": "www.blocksandfiles.com -",
+      "date": "2026-10-08T14:04:22",
+      "zh": ""
     }
   ],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "Nvidia sidesteps JEDEC HBM standard",
+      "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
+      "src": "www.blocksandfiles.com -",
+      "date": "2026-10-26T15:06:32",
+      "zh": ""
+    }
+  ]
 }
