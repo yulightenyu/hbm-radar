@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-28T12:19:56.310813Z",
+  "updated": "2026-10-28T22:18:55.888162Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 928.76,
-      "change": 2.77,
+      "price": 983.23,
+      "change": 5.86,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 12.49509
+      "pe": 13.227902
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": 18.37,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 2.83,
-      "pe": 39.56891
+      "eps": 3.35,
+      "pe": 33.42687
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 928.76,
-    "upside": 23.61,
+    "price": 983.23,
+    "upside": 16.76,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -69,28 +69,21 @@
   },
   "micron": [
     {
-      "title": "Micron Plans 400-Layer 3D NAND with Wafer-to-Wafer Bonding in 2027",
-      "link": "https://www.techpowerup.com/354167/micron-plans-400-layer-3d-nand-with-wafer-to-wafer-bonding-in-2027",
-      "src": "TechPowerUp",
-      "date": "2026-10-27T08:35:36",
-      "zh": ""
-    },
-    {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
       "src": "www.blocksandfiles.com -",
       "date": "2026-10-22T14:48:53",
       "zh": ""
-    },
-    {
-      "title": "Micron and Netlist settle memory patent dispute",
-      "link": "https://www.blocksandfiles.com/flash/2026/10/08/micron-and-netlist-settle-memory-patent-dispute/5301939",
-      "src": "www.blocksandfiles.com -",
-      "date": "2026-10-08T14:04:22",
-      "zh": ""
     }
   ],
   "hbm": [
+    {
+      "title": "CXMT to Start HBM3E Mass Production by the End of 2026",
+      "link": "https://www.techpowerup.com/354226/cxmt-to-start-hbm3e-mass-production-by-the-end-of-2026",
+      "src": "TechPowerUp",
+      "date": "2026-10-28T16:23:01",
+      "zh": ""
+    },
     {
       "title": "Nvidia sidesteps JEDEC HBM standard",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
