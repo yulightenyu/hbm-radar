@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-29T12:28:54.896712Z",
+  "updated": "2026-10-29T22:32:17.069956Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 983.23,
-      "change": 5.86,
+      "price": 934.27,
+      "change": -4.98,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 13.227902
+      "pe": 12.569219
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": -0.29,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 19.90196
+      "eps": 5.59,
+      "pe": 19.973166
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 983.23,
-    "upside": 16.76,
+    "price": 934.27,
+    "upside": 22.88,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -77,13 +77,6 @@
     }
   ],
   "hbm": [
-    {
-      "title": "CXMT to Start HBM3E Mass Production by the End of 2026",
-      "link": "https://www.techpowerup.com/354226/cxmt-to-start-hbm3e-mass-production-by-the-end-of-2026",
-      "src": "TechPowerUp",
-      "date": "2026-10-28T16:23:01",
-      "zh": ""
-    },
     {
       "title": "Nvidia sidesteps JEDEC HBM standard",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
