@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-02T15:00:44.159724Z",
+  "updated": "2026-11-03T00:41:38.910188Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 875.05,
-      "change": -1.1,
+      "price": 833.59,
+      "change": -5.78,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 11.7825775
+      "pe": 11.214718
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 219500.0,
+      "change": -4.15,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1399000.0,
+      "change": -4.96,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -42,8 +42,8 @@
       "change": 3.09,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 20.142603
+      "eps": 5.78,
+      "pe": 19.550173
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 876.32,
-    "upside": 31.01,
+    "price": 833.59,
+    "upside": 37.72,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -77,6 +77,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "Qualcomm Validates HBC Silicon, Samples Appear in First Half of 2027",
+      "link": "https://www.techpowerup.com/354409/qualcomm-validates-hbc-silicon-samples-appear-in-first-half-of-2027",
+      "src": "TechPowerUp",
+      "date": "2026-11-02T16:11:21",
+      "zh": ""
+    },
     {
       "title": "Nvidia sidesteps JEDEC HBM standard",
       "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
