@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-03T13:48:14.457657Z",
+  "updated": "2026-11-03T22:59:16.256957Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 833.59,
-      "change": -5.78,
+      "price": 855.1,
+      "change": 2.58,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 11.214718
+      "pe": 11.504103
     },
     {
       "ticker": "005930.KS",
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 833.59,
-    "upside": 37.72,
+    "price": 855.1,
+    "upside": 34.26,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,6 +68,13 @@
     }
   },
   "micron": [
+    {
+      "title": "The Worst Is Yet to Come for Memory Shortages, Warns Team Group",
+      "link": "https://www.techpowerup.com/354432/the-worst-is-yet-to-come-for-memory-shortages-warns-team-group",
+      "src": "TechPowerUp",
+      "date": "2026-11-03T14:42:21",
+      "zh": ""
+    },
     {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
