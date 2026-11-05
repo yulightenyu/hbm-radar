@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:20:59.020639Z",
+  "updated": "2026-11-05T05:40:23.803032Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 218000.0,
-      "change": -0.68,
+      "price": 201500.0,
+      "change": -7.57,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1396000.0,
-      "change": -0.14,
+      "price": 1262000.0,
+      "change": -9.6,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 117.21,
-      "change": 17.8,
+      "price": 112.5,
+      "change": -4.02,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 20.893047
+      "eps": 6.6,
+      "pe": 17.045454
     }
   ],
   "dcf": {
@@ -68,13 +68,6 @@
     }
   },
   "micron": [
-    {
-      "title": "The Worst Is Yet to Come for Memory Shortages, Warns Team Group",
-      "link": "https://www.techpowerup.com/354432/the-worst-is-yet-to-come-for-memory-shortages-warns-team-group",
-      "src": "TechPowerUp",
-      "date": "2026-11-03T14:42:21",
-      "zh": ""
-    },
     {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
