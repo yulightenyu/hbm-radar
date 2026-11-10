@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-09T15:30:56.577961Z",
+  "updated": "2026-11-10T01:16:53.828842Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 732.05,
-      "change": 6.09,
+      "price": NaN,
+      "change": NaN,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 9.848849
+      "pe": 9.863447
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 198300.0,
+      "change": 4.42,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1208000.0,
+      "change": 6.34,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -42,8 +42,8 @@
       "change": -1.87,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 18.40107
+      "eps": 5.5,
+      "pe": 18.76909
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 730.71,
-    "upside": 57.12,
+    "price": 733.15,
+    "upside": 56.59,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,6 @@
     }
   },
   "micron": [
-    {
-      "title": "TSMC is Reportedly Considering 3D DRAM Production",
-      "link": "https://www.techpowerup.com/354547/tsmc-is-reportedly-considering-3d-dram-production",
-      "src": "TechPowerUp",
-      "date": "2026-11-06T17:55:28",
-      "zh": ""
-    },
     {
       "title": "Micron skipping planned NAND generation",
       "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
