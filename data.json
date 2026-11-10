@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-10T14:30:09.625383Z",
+  "updated": "2026-11-10T22:57:03.016221Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 733.15,
-      "change": 6.25,
+      "price": 725.11,
+      "change": -1.1,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 9.65263
+      "pe": 9.7552805
     },
     {
       "ticker": "005930.KS",
@@ -59,23 +59,15 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 717.48,
-    "upside": 60.01,
+    "price": 725.11,
+    "upside": 58.33,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Micron skipping planned NAND generation",
-      "link": "https://www.blocksandfiles.com/flash/2026/10/22/micron-skipping-planned-nand-generation/5304729",
-      "src": "www.blocksandfiles.com -",
-      "date": "2026-10-22T14:48:53",
-      "zh": ""
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "Nvidia sidesteps JEDEC HBM standard",
