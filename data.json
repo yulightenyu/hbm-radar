@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-11T13:44:46.295473Z",
+  "updated": "2026-11-12T00:12:46.628081Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 725.11,
-      "change": -1.1,
+      "price": 811.3,
+      "change": 11.89,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 9.7552805
+      "pe": 10.914839
     },
     {
       "ticker": "005930.KS",
@@ -42,8 +42,8 @@
       "change": 7.26,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 20.495544
+      "eps": 6.01,
+      "pe": 19.131447
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 725.11,
-    "upside": 58.33,
+    "price": 811.3,
+    "upside": 41.51,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "Nvidia sidesteps JEDEC HBM standard",
-      "link": "https://www.blocksandfiles.com/ai-ml/2026/10/26/nvidia-sidesteps-jedec-hbm-standard/5305323",
-      "src": "www.blocksandfiles.com -",
-      "date": "2026-10-26T15:06:32",
-      "zh": ""
-    }
-  ]
+  "hbm": []
 }
