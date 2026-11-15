@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T13:37:50.145661Z",
+  "updated": "2026-11-15T22:35:11.010580Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -67,6 +67,22 @@
       "wacc": 0.1
     }
   },
-  "micron": [],
-  "hbm": []
+  "micron": [
+    {
+      "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
+      "link": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
+      "src": "TechPowerUp",
+      "date": "2026-11-15T18:13:01",
+      "zh": ""
+    }
+  ],
+  "hbm": [
+    {
+      "title": "SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders",
+      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders",
+      "src": "TechPowerUp",
+      "date": "2026-11-15T16:37:03",
+      "zh": ""
+    }
+  ]
 }
