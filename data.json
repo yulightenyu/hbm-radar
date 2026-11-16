@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-16T05:23:32.194221Z",
+  "updated": "2026-11-16T15:08:31.222356Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 778.31,
-      "change": -2.52,
+      "price": 720.22,
+      "change": -7.46,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 10.471007
+      "pe": 9.688012
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 196500.0,
-      "change": -4.61,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1128000.0,
-      "change": -7.24,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 100.86,
-      "change": -7.43,
+      "price": 98.15,
+      "change": -9.91,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 5.61,
-      "pe": 17.97861
+      "pe": 17.495544
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 778.31,
-    "upside": 47.51,
+    "price": 719.4,
+    "upside": 59.58,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -77,6 +77,13 @@
     }
   ],
   "hbm": [
+    {
+      "title": "(PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance",
+      "link": "https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance",
+      "src": "TechPowerUp",
+      "date": "2026-11-16T14:21:39",
+      "zh": ""
+    },
     {
       "title": "SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders",
       "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders",
