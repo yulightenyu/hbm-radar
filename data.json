@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-17T01:42:22.615237Z",
+  "updated": "2026-11-17T15:39:15.663778Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": NaN,
-      "change": NaN,
+      "price": 685.27,
+      "change": -4.69,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 9.673348
+      "pe": 9.226827
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 193800.0,
-      "change": -1.52,
+      "price": NaN,
+      "change": NaN,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1123000.0,
-      "change": 0.27,
+      "price": NaN,
+      "change": NaN,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 98.15,
-      "change": -9.91,
+      "price": 95.17,
+      "change": -3.04,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.05,
-      "pe": 19.435642
+      "eps": 5.61,
+      "pe": 16.964348
     }
   ],
   "dcf": {
@@ -59,36 +59,21 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 719.02,
-    "upside": 59.67,
+    "price": 685.39,
+    "upside": 67.5,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
       "wacc": 0.1
     }
   },
-  "micron": [
-    {
-      "title": "Samsung, SK hynix, and Micron Fail to Get DRAM Antitrust Suit Dismissed",
-      "link": "https://www.techpowerup.com/354863/samsung-sk-hynix-and-micron-fail-to-get-dram-antitrust-suit-dismissed",
-      "src": "TechPowerUp",
-      "date": "2026-11-15T18:13:01",
-      "zh": ""
-    }
-  ],
+  "micron": [],
   "hbm": [
     {
       "title": "(PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance",
       "link": "https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance",
       "src": "TechPowerUp",
       "date": "2026-11-16T14:21:39",
-      "zh": ""
-    },
-    {
-      "title": "SK hynix Bets on HBM4 Demand Beyond NVIDIA With New Equipment Orders",
-      "link": "https://www.techpowerup.com/354861/sk-hynix-bets-on-hbm4-demand-beyond-nvidia-with-new-equipment-orders",
-      "src": "TechPowerUp",
-      "date": "2026-11-15T16:37:03",
       "zh": ""
     }
   ]
