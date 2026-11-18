@@ -1,23 +1,23 @@
 {
-  "updated": "2026-11-17T15:39:15.663778Z",
+  "updated": "2026-11-18T00:41:58.775074Z",
   "stocks": [
     {
       "ticker": "MU",
       "name": "美光 Micron",
       "currency": "USD",
-      "price": 685.27,
-      "change": -4.69,
+      "price": 712.42,
+      "change": -0.92,
       "revenue": 133188000000.0,
       "gross_margin": 80.7,
       "eps": 74.33,
-      "pe": 9.226827
+      "pe": 9.584555
     },
     {
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 197600.0,
+      "change": 3.84,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": NaN,
-      "change": NaN,
+      "price": 1166000.0,
+      "change": 6.19,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -42,8 +42,8 @@
       "change": -3.04,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.61,
-      "pe": 16.964348
+      "eps": 5.44,
+      "pe": 17.494484
     }
   ],
   "dcf": {
@@ -59,8 +59,8 @@
     "tv_b": 1529.0,
     "ev_b": 1260.68,
     "fair_value": 1148.06,
-    "price": 685.39,
-    "upside": 67.5,
+    "price": 712.42,
+    "upside": 61.15,
     "assumptions": {
       "growth_5y": 0.12,
       "terminal_growth": 0.03,
@@ -68,13 +68,5 @@
     }
   },
   "micron": [],
-  "hbm": [
-    {
-      "title": "(PR) Penguin Solutions Unveils Industry's First Photonics-Based HBM-Class Memory Appliance",
-      "link": "https://www.techpowerup.com/354895/penguin-solutions-unveils-industrys-first-photonics-based-hbm-class-memory-appliance",
-      "src": "TechPowerUp",
-      "date": "2026-11-16T14:21:39",
-      "zh": ""
-    }
-  ]
+  "hbm": []
 }
