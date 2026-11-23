@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T23:21:59.929499Z",
+  "updated": "2026-11-23T06:23:05.820650Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 183100.0,
-      "change": -7.01,
+      "price": 178500.0,
+      "change": -2.51,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1113000.0,
-      "change": -5.92,
+      "price": 1091000.0,
+      "change": -1.98,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": 86.3,
-      "change": -7.87,
+      "price": 91.12,
+      "change": 5.59,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
       "eps": 5.16,
-      "pe": 16.724808
+      "pe": 17.658916
     }
   ],
   "dcf": {
