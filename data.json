@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:04:35.899141Z",
+  "updated": "2026-11-27T07:17:52.561511Z",
   "stocks": [
     {
       "ticker": "MU",
@@ -16,8 +16,8 @@
       "ticker": "005930.KS",
       "name": "三星电子",
       "currency": "KRW",
-      "price": 170700.0,
-      "change": -9.87,
+      "price": 179100.0,
+      "change": 4.55,
       "revenue": 333605938000000.0,
       "gross_margin": 39.4,
       "eps": null,
@@ -27,8 +27,8 @@
       "ticker": "000660.KS",
       "name": "SK海力士",
       "currency": "KRW",
-      "price": 1030000.0,
-      "change": -11.05,
+      "price": 1110000.0,
+      "change": 7.45,
       "revenue": 97146675000000.0,
       "gross_margin": 60.4,
       "eps": null,
@@ -38,12 +38,12 @@
       "ticker": "300223.SZ",
       "name": "君正集成",
       "currency": "CNY",
-      "price": NaN,
-      "change": NaN,
+      "price": 94.27,
+      "change": 15.65,
       "revenue": 4741007597.96,
       "gross_margin": 34.1,
-      "eps": 5.16,
-      "pe": 15.796513
+      "eps": 5.61,
+      "pe": 16.80392
     }
   ],
   "dcf": {
@@ -68,5 +68,13 @@
     }
   },
   "micron": [],
-  "hbm": []
+  "hbm": [
+    {
+      "title": "(PR) Kioxia and NVIDIA Collaborate to Expand Effective High-Bandwidth Memory Capacity with SSDs",
+      "link": "https://www.techpowerup.com/355250/kioxia-and-nvidia-collaborate-to-expand-effective-high-bandwidth-memory-capacity-with-ssds",
+      "src": "TechPowerUp",
+      "date": "2026-11-26T22:59:03",
+      "zh": ""
+    }
+  ]
 }
